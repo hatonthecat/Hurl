@@ -1,5 +1,5 @@
 baseURL: "hatonthecat.github.io/Hurl" 
-title: Prof. Name
+title: Prof. Hurl
 paginate: 20
 theme: PaperMod
 
@@ -80,13 +80,13 @@ consequat."
           url: officehours/
         - name: Google Scholar
           url: 
-        - name: YouTube
+        - name: 
           url: 
         - name: GitHub
           url: https://github.com/hatonthecat
-        - name: Substack
+        - name: 
           url: 
-        - name: Twitter
+        - name: 
           url:
 
     assets:
