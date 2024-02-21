@@ -30,7 +30,7 @@ editPost:
 
 ---
 
-##### Figure X: Figure caption
+##### Figure 1:
 
 ![](paper1.png)
 
