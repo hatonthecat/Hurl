@@ -66,7 +66,7 @@ This section introduces other things.
 5. [Video Title 5](https://youtu.be/tU0dtS9iiOk)
 6. [Video Title 6](https://youtu.be/GMIKykwvrGI)
 7. [Video Title 7](https://youtu.be/79MSNfp1rw0)
-8. [Video Title 8](https://youtu.be/zEShE10YiYo)
+8. [Video Title 8]([https://youtu.be/zEShE10YiYo](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif))
 9. [Video Title 9](https://youtu.be/SNlHsn7isog)
 
 ##### Lecture notes
@@ -75,7 +75,7 @@ This section introduces other things.
 
 ##### Readings
 
-+ [Paper Title 4](https://doi.org/10.1093/restud/rdy030) – This paper shows stuff.
++ [Paper Title 4]([https://doi.org/10.1093/restud/rdy030](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif)) – This paper shows stuff.
 + [Paper Title 5](https://doi.org/10.1093/jeea/jvaa041) – This paper shows other things.
 
 ##### Homework
