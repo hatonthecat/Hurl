@@ -10,7 +10,7 @@ cover:
     alt: "Image caption"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
+    URL: ""
     Text: "Journal Name"
 
 ---
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Citation
 
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. 
 
 ```BibTeX
 @article{AAYY,
