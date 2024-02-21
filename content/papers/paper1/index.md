@@ -1,10 +1,10 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
+title: "Sleepy Dwarf" 
+date: 03-2024
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+description: "" 
+summary: "" 
 cover:
     image: "paper1.png"
     alt: "Image caption"
@@ -19,14 +19,14 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
++ [Paper-TBA](paper1.pdf)
 
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ---
 
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Citation
 
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. 
+Sleepy Dwarf. 2024. "Title." *Journal* Volume (Issue): First page–Last page. 
 
 ```BibTeX
 @article{AAYY,
