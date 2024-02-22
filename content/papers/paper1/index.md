@@ -38,27 +38,10 @@ research and additional industry applications of drowsy logic.
 
 ---
 
-##### Figure 1:
-
 ![](paper1.png)
-
----
-
-##### Citation
 
 Sleepy Dwarf. 2024. "Title." *Journal* Volume (Issue): First page–Last page. 
 
-```BibTeX
-@article{AAYY,
-author = {Author},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
-```
 
 
 
