@@ -6,7 +6,7 @@ author: "Author Name"
 description: "" 
 summary: "" 
 cover:
-    image: "paper1.png"
+    image: "[paper1.png]"
     alt: "Image caption"
     relative: false
 editPost:
@@ -26,7 +26,7 @@ editPost:
 
 ##### Abstract
 
-Power-efficiency is an increasing design consideration in 
+Power-efficiency has been an increasing design consideration in 
 virtually all new silicon in the past 15 years. Power-first
 designs, however, typically appear only in niche applications
 such as IoT. A 2023 retrospective paper of a research
