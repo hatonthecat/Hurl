@@ -6,7 +6,7 @@ author: "Author Name"
 description: "" 
 summary: "" 
 cover:
-    image: "[paper1.png]"
+    image: ""
     alt: "Image caption"
     relative: false
 editPost:
@@ -22,6 +22,10 @@ editPost:
 + [Paper-TBA](paper1.pdf)
 
 
+![](paper1.png)
+
+Sleepy Dwarf. 2024. "Title." *Journal* Volume (Issue): First page–Last page. 
+
 ---
 
 ##### Abstract
@@ -29,18 +33,8 @@ editPost:
 Power-efficiency has been an increasing design consideration in 
 virtually all new silicon in the past 15 years. Power-first
 designs, however, typically appear only in niche applications
-such as IoT. A 2023 retrospective paper of a 2002 circuit, using a 
-technique called “drowsy logic,” reviewed historical strategies to
+such as IoT. A 2023 retrospective paper of a research lab's 2002 circuit, 
+using a technique called “drowsy logic,” reviewed historical strategies to
 limit leakage in the context of foundries' recent implementation of 
 low-leakage FinFET and Gate-All-Around technologies. This review 
 explores new research and industry applications of drowsy logic.
-
----
-
-![](paper1.png)
-
-Sleepy Dwarf. 2024. "Title." *Journal* Volume (Issue): First page–Last page. 
-
-
-
-
