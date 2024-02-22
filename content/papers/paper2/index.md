@@ -1,7 +1,7 @@
 ---
 title: "The Magic School Bus Travels to Sub-threshold Voltage" 
 cover:
-    image: "paper2.png"
+    image: "[paper2.png]"
     alt: "Image caption"
     relative: false
 editPost:
