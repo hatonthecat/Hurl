@@ -55,7 +55,7 @@ consequat."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Prof. Hurl
           buttons:
             - name: Papers
               url: papers/
