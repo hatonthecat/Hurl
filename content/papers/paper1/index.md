@@ -10,10 +10,9 @@ cover:
 editPost:
     URL: 
     Text: "Other Journal Name"
-
-
+    
 ---
-<p><img loading="lazy" src="paper2.png" alt=""></p>
+<p><img loading="lazy" src="paper1.png" alt=""></p>
 
 ##### Download
 
