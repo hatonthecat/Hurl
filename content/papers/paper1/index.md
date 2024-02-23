@@ -1,17 +1,8 @@
+![](paper1.png)
 ---
 title: "Sleepy Dwarf's Somniloquy on Drowsy Logic Chip Design" 
 date: 03-2024
 tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "" 
-summary: "" 
-cover:
-    image: ""
-    alt: "Image caption"
-    relative: false
-editPost:
-    URL: ""
-    Text: "Journal Name"
 
 ---
 
