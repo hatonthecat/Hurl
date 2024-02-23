@@ -18,7 +18,7 @@ editPost:
 
 ##### Download
 
-+ [Paper]() - TBA
++ [Paper](paper1.pdf)
 
 
 ---
