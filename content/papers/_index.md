@@ -7,13 +7,10 @@ author: ["Author Name 1", "Author Name 2"]
 description: "This paper shows other things. Published in Journal Journal, 2015." 
 summary: "This paper shows other things using other techniques and different data." 
 cover:
-    image: "/paper2.png"
+    image: "paper2.png"
     alt: "Image caption"
     relative: false
 editPost:
     URL: 
     Text: "Other Journal Name"
 
----
-<p><img loading="lazy" src="paper2.png" alt=""></p>
----
