@@ -14,3 +14,4 @@ editPost:
     URL: 
     Text: "Other Journal Name"
 
+---
