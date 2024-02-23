@@ -1,10 +1,6 @@
 ![](paper1.png)
 
-##### Sleepy Dwarf's Somniloquy on Drowsy Logic Chip Design
-
-date: 03-2024
-
----
+## Sleepy Dwarf's Somniloquy on Drowsy Logic Chip Design
 
 ##### Download
 
