@@ -1,21 +1,14 @@
 ![](paper1.png)
----
-title: "Sleepy Dwarf's Somniloquy on Drowsy Logic Chip Design" 
-date: 03-2024
-tags: ["keyword 1","keyword 2","keyword 3"]
 
----
+##### Sleepy Dwarf's Somniloquy on Drowsy Logic Chip Design
+
+date: 03-2024
 
 ---
 
 ##### Download
 
 + [Paper-TBA](paper1.pdf)
-
-
-![](paper1.png)
-
-Sleepy Dwarf. 2024. "Title." *Journal* Volume (Issue): First page–Last page. 
 
 ---
 
