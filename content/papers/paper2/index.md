@@ -22,6 +22,8 @@ editPost:
 
 + [Paper](paper2.pdf) 
 
+A briefer News edition was published on [EENews](https://www.eenewseurope.com/en/power-first-some-thoughts-on-drowsy-logic-chip-design/) (02/2023)
+
 ---
 
 ##### Abstract
