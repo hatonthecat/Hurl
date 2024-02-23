@@ -51,7 +51,7 @@ consequat."
           buttons:
             - name: Papers
               url: papers/
-            - name: Newsletter
+            - name: Blog
               url: https://newsteve.substack.com/
     socialIcons:
         - name: CV
