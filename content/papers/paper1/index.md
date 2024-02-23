@@ -2,7 +2,7 @@
 title: "Sleepy Dwarf’s Somniloquy on Drowsy Logic Chip Design" 
     
 cover:
-    image: "paper2.png"
+    image: "paper1.png"
     alt: "Image caption"
     
     alt: "Image caption"
