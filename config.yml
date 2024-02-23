@@ -66,20 +66,8 @@ consequat."
           url: cv.pdf
         - name: Email
           url: mailto:giovanni.los@proton.me
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: 
-        - name: 
-          url: 
         - name: GitHub
           url: https://github.com/hatonthecat
-        - name: 
-          url: 
-        - name: 
-          url:
 
     assets:
         disableHLJS: true
@@ -88,7 +76,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Prof. Hurl"
       icon: favicon.ico
       iconHeight: 18
 
