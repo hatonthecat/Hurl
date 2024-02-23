@@ -12,13 +12,15 @@ editPost:
     URL: 
     Text: "Other Journal Name"
 
+---
+
+
 <p><img loading="lazy" src="paper2.png" alt=""></p>
 
 
 ##### Download
 
-+ [Paper]() -TBA
-
++ [Paper](/paper2.pdf) 
 
 ---
 
