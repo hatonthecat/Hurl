@@ -20,7 +20,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](/papers/paper2/paper2.pdf) 
++ [Paper](paper2.pdf) 
 
 ---
 
