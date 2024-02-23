@@ -14,15 +14,7 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: 
-          weight: 4
+
 
 params:
     description: "Prof Hurly
