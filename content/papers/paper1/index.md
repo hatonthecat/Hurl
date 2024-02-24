@@ -15,12 +15,12 @@ editPost:
 <p><img loading="lazy" src="paper1.png" alt=""></p>
 
 ---
-
+02-2024
 ##### Download
 
 + [Paper](paper1.pdf)
 
-A briefer edition was published on [EENews](https://www.eenewseurope.com/en/power-first-some-thoughts-on-drowsy-logic-chip-design/) (02/2024)
+An abbreviated edition was published on [EENews](https://www.eenewseurope.com/en/power-first-some-thoughts-on-drowsy-logic-chip-design/) (02-23-2024)
 
 ---
 
