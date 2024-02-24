@@ -54,7 +54,7 @@ consequat."
             - name: Papers
               url: papers/
             - name: Courses
-              url: courses/course1
+              url: courses/
             - name: Blog
               url: https://newsteve.substack.com/
     socialIcons:
