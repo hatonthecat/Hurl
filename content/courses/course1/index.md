@@ -46,5 +46,6 @@ This section reviews things.
 
 ##### Readings
 
-+ [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif) – This required reading reviews server-side testing and culture.
-
++ [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://github.com/hatonthecat/Hurl/blob/main/static/picture.jpg) – This required reading reviews server-side testing and culture.
+  
+[Amazon Bookstore Link](https://www.amazon.com/gp/customer-reviews/R11ZXC3WMQ2J0T/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=0062669796)
