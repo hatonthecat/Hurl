@@ -1,6 +1,6 @@
 ---
 title: "Fear and Loathing at Phoenix Fab Plant 21"
-date: 2022-03-10
+date: 2023-03-10
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Prof. Raoul"
 description: "This graduate course presents things." 
