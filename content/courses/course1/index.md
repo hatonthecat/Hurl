@@ -24,7 +24,7 @@ This graduate course explores what a modern day gonzo journalist would cover ins
 + Why [there](https://upload.wikimedia.org/wikipedia/commons/9/94/231105-1_TSMC_Fab_21_construction.jpg)?
 + Why [here](https://www.tomshardware.com/tech-industry/semiconductors/us-chip-fab-construction-is-among-the-slowest-in-the-world-a-complex-web-of-regulations-is-to-blame-according-to-study)? 
 + What about [this?](https://www.songfacts.com/lyrics/weird-al-yankovic/smells-like-nirvana) Nirvana lyrics revisited- Exploring the Mandela effect in auditory interpretations of ambiguous phonetics
-+ What about [that](malone.pdf)? Comparisons to pop culture and the shift in Silicon Valley from hardware in the late 1990s to software.
++ What about [that](course1/Malone.pdf)? Comparisons to pop culture and the shift in Silicon Valley from hardware in the late 1990s to software.
 
 ---
 
