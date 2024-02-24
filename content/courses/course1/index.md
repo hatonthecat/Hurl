@@ -30,7 +30,7 @@ This graduate course explores what a modern day gonzo journalist would cover ins
 
 ## Part 1
 
-Pop culture is inseparable from [technology](https://www.rfcafe.com/miscellany/cool-videos/intel-our-rock-stars.htm) 30 years [later](https://www.youtube.com/watch?v=ibFwc4bHtFc).
+Pop culture is inseparable from [technology](https://www.rfcafe.com/miscellany/cool-videos/intel-our-rock-stars.htm) 30 years [later.](https://www.youtube.com/watch?v=ibFwc4bHtFc)
 
 
 
