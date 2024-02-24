@@ -1,4 +1,4 @@
 ---
 title: "Courses"
-description: "Courses on business cycles, economic slack, unemployment, macroeconomics, and mathematical methods. For undergraduate and graduate students."
+description: "Graduate and Undergraduate courses exploring the future of semiconductor foundries and contemporary gonzo journalism."
 ---
