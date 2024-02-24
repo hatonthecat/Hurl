@@ -19,30 +19,31 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers research topics related to things. It tries to answer several questions: 
+This graduate course explores what a modern day gonzo journalist would cover instead of the Mint 400. Research topics include Silicon Valley and new Semiconductor Foundries being manufactured near Las Vegas 
 
-+ Why this? 
-+ Why that? 
-+ What about this? 
-+ What about that?
-
++ Why [there](https://upload.wikimedia.org/wikipedia/commons/9/94/231105-1_TSMC_Fab_21_construction.jpg)?
++ Why [here](https://www.tomshardware.com/tech-industry/semiconductors/us-chip-fab-construction-is-among-the-slowest-in-the-world-a-complex-web-of-regulations-is-to-blame-according-to-study)? 
++ What about [this?](https://www.songfacts.com/lyrics/weird-al-yankovic/smells-like-nirvana) Nirvana lyrics revisited- Exploring the Mandela effect in auditory interpretations of ambiguous phonetics
++ What about that? Comparisons to pop culture and the shift in Silicon Valley from hardware in the late 1990s to software.
 
 ---
 
 ## Part 1
 
-This section reviews things.
+This graduate course explores what a modern day gonzo journalist would cover instead of the Mint 400.
 
 ##### Lecture videos
 
-1. [Video Title 1](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif)
-2. [Video Title 2](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif)
-3. [Video Title 3](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif)
-4. [Video Title 4](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif)
+1. [Wayne's World](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif)
+2. [Nirvana's Most Successful Song- Smells Like Teen Spirit](https://www.youtube.com/watch?v=NLNjKYMJrpc) 
+3. [Lyrical Ambiguity as Art](https://www.youtube.com/watch?v=FklUAoZ6KxY0) "Weird Al" Yankovic - Smells Like Nirvana
+
 
 ##### Lecture notes
 
+Can Americans identify Arizona on a map? Nevada? New Mexico?
 
+Did Kurt Kobain really say "Mosquito? "How does he know?" And "Albino?" or "How would I know?"
 
 ##### Readings
 
