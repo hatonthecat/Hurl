@@ -1,12 +1,12 @@
 ---
-title: "Course Title 1"
+title: "Fear and Loathing at Phoenix Fab Plant 21"
 date: 2022-03-10
 tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Prof. Name"
+author: "Prof. Raoul"
 description: "This graduate course presents things." 
-summary: "This graduate course presents various methods and results." 
+summary: "This course explores what a modern day gonzo journalist would cover instead of the Mint 400" 
 cover:
-    image: "course1.png"
+    image: "course1.jpg"
     alt: "Figure caption"
     relative: false
 editPost:
@@ -46,5 +46,5 @@ This section reviews things.
 
 ##### Readings
 
-+ [Paper Title 3](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif) – This paper reviews more things and derives some results.
++ [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif) – This required reading reviews server-side testing and culture.
 
