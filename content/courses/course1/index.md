@@ -43,7 +43,7 @@ This graduate course explores what a modern day gonzo journalist would cover ins
 
 Can Americans identify Arizona on a map? Nevada? New Mexico?
 
-Did Kurt Kobain really say "Mosquito? "How does he know?" And "Albino?" or "How would I know?"
+Did Kurt Kobain really say "Mosquito"? or "How does he know?" And did he say, "Albino"? or "How would I know?"
 
 ##### Readings
 
