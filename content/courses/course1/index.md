@@ -4,7 +4,7 @@ date: 2022-03-10
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Prof. Raoul"
 description: "This graduate course presents things." 
-summary: "This course explores what a modern day gonzo journalist would cover instead of the Mint 400" 
+summary: "This graduate course explores what a modern day gonzo journalist would cover instead of the Mint 400" 
 cover:
     image: "course1.jpg"
     alt: "Figure caption"
