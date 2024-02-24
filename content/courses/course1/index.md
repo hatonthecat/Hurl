@@ -45,7 +45,7 @@ Pop culture is inseparable from [technology](https://www.rfcafe.com/miscellany/c
 
 Can Americans identify Arizona on a map? Nevada? New Mexico?
 
-Did Kurt Kobain really say "Mosquito"? or "How does he know?" And did he say, "Albino"? or "How would I know?"
+Did Kurt Cobain really say "Mosquito"? or "How does he know?" And did he say, "Albino"? or "How would I know?"
 
 ##### Readings
 
