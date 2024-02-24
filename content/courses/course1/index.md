@@ -38,7 +38,7 @@ Pop culture is inseparable from [technology](https://www.rfcafe.com/miscellany/c
 
 1. [Wayne's World](https://github.com/hatonthecat/Hurl/blob/main/static/picture.gif)
 2. [Nirvana's Most Successful Song- "Smells Like Teen Spirit" (1991)](https://www.youtube.com/watch?v=NLNjKYMJrpc) 
-3. [Lyrical Ambiguity as Art](https://www.youtube.com/watch?v=FklUAoZ6KxY0) "Weird Al" Yankovic - Smells Like Nirvana
+3. [Lyrical Ambiguity as Art](https://www.youtube.com/watch?v=FklUAoZ6KxY0) "Weird Al" Yankovic - "Smells Like Nirvana" (1992)
 
 
 ##### Lecture notes
