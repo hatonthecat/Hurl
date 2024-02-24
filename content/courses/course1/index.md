@@ -4,7 +4,7 @@ date: 2022-03-10
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Prof. Raoul"
 description: "This graduate course presents things." 
-summary: "This graduate course explores what a modern day gonzo journalist would cover instead of the Mint 400" 
+summary: "This graduate course explores what a modern day gonzo journalist would cover instead of the Mint 400." 
 cover:
     image: "course1.jpg"
     alt: "Figure caption"
@@ -19,7 +19,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This graduate course explores what a modern day gonzo journalist would cover instead of the Mint 400. Research topics include Silicon Valley and new semiconductor foundries being manufactured near Las Vegas 
+This graduate course explores what a modern day gonzo journalist would cover instead of the Mint 400. Research topics include Silicon Valley and new semiconductor foundries being manufactured near Las Vegas. 
 
 + Why [there](https://upload.wikimedia.org/wikipedia/commons/9/94/231105-1_TSMC_Fab_21_construction.jpg)?
 + Why [here](https://www.tomshardware.com/tech-industry/semiconductors/us-chip-fab-construction-is-among-the-slowest-in-the-world-a-complex-web-of-regulations-is-to-blame-according-to-study)? 
