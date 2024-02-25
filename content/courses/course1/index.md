@@ -4,7 +4,7 @@ date: 2023-01-10
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Prof. Raoul"
 description: "This graduate course presents things." 
-summary: "This graduate course explores what a modern day gonzo journalist would cover instead of the Mint 400." 
+summary: "This graduate course explores what a modern day gonzo journalist would cover instead of the Mint 400 and the Kentucky Derby." 
 cover:
     image: "course1.jpg"
     alt: "Figure caption"
@@ -42,7 +42,7 @@ Emerging social movements, however are less equipped to deal with individuality 
 
 ##### Part 3 - A Contrast of two Southern "Gentleman," Literary Attack Dogs of opposing parties
 
-John Kennedy Toole's post-humous _A Confederacy of Dunces_ (1980), represents a [prescient](https://www.newyorker.com/books/second-read/the-uneasy-afterlife-of-a-confederacy-of-dunces) attitude of American personalities, albeit quite contrary to traditional attitudes of his time (some suggest he was truly medieval). It would be difficult, if not inaccurate, to categorize Toole as belonging to either party today, however, and like HST, would appear to be much more conservative than today's modern Democratic party, if not because of a product of his time. A 2016 episode of Bill Maher, described an interesting phrasing of presidential candidates: ["our scumbag"](https://youtu.be/7hBnwPycFUQ?t=71). If anything, HST, while not a successful politician (losing an Aspen mayoral race), in many ways was the Democrat's own scumbag. Toole, while seeing nothing of the success as HST, represents somewhat of a quaint royalist fantasy, that only became activated and three dimensional in the past 10 years. Other irreverent members of the self-identified American aristocracy include the cartoonist [Charles Addams](https://www.grunge.com/985057/the-untold-truth-of-charles-addams-creator-of-the-addams-family/) and writer/socialite [Alice Roosevelt Longsworth,](https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth#Political_connections) who, while both highly partisan, honed their craft and interests in slightly less political ways.
+John Kennedy Toole's post-humous _A Confederacy of Dunces_ (1980), represents a [prescient](https://www.newyorker.com/books/second-read/the-uneasy-afterlife-of-a-confederacy-of-dunces) attitude of American personalities, albeit quite contrary to traditional attitudes of his time (some suggest he was truly medieval). It would be difficult, if not inaccurate, to categorize Toole as belonging to either party today, however, and like HST, would appear to be much more conservative than today's modern Democratic party, if not because of a product of his time. A 2016 episode of Bill Maher, described an interesting phrasing of presidential candidates: ["our scumbag."](https://youtu.be/7hBnwPycFUQ?t=71) If anything, HST, while not a successful politician (losing an Aspen mayoral race), in many ways was the Democrat's own scumbag. Toole, while seeing nothing of the success as HST, represents somewhat of a quaint royalist fantasy, that only became activated and three dimensional in the past 10 years. Other irreverent members of the self-identified American aristocracy include the cartoonist [Charles Addams](https://www.grunge.com/985057/the-untold-truth-of-charles-addams-creator-of-the-addams-family/) and writer/socialite [Alice Roosevelt Longsworth,](https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth#Political_connections) who, while both highly partisan, honed their craft and interests in slightly less political ways.
 
 ##### Lecture videos
 
