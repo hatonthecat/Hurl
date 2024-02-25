@@ -28,9 +28,9 @@ This graduate course explores what a modern day gonzo journalist would cover ins
 
 ---
 
-##### Part 1 - Industrial Printing Press, Xerox PARC, and World Wide Web 
+##### Part 1 - Industrialized Printing Press, Xerox PARC, and World Wide Web 
 
-Pop culture is inseparable from [technology.](https://www.rfcafe.com/miscellany/cool-videos/intel-our-rock-stars.htm) Comparisons made 30 years [after](https://www.youtube.com/watch?v=ibFwc4bHtFc) the Intel Pentium era. Comparisons of Outcault's 1895 [The Yellow Kid](https://www.tcj.com/outcault-goddard-the-comics-and-the-yellow-kid/) comic strip and color press,  [transistor radios ](https://www.nutsvolts.com/magazine/article/the_transistor_radio) and PARC's [Cookie Monster](https://newsteve.substack.com/p/most-ideas-come-from-previous-ideas) as prototypical tech demos.
+Pop culture is inseparable from [technology.](https://www.rfcafe.com/miscellany/cool-videos/intel-our-rock-stars.htm) Comparisons in Commercial advertisements made 30 years [after](https://www.youtube.com/watch?v=ibFwc4bHtFc) the Intel Pentium era. A study of of Outcault's 1895 [The Yellow Kid](https://www.tcj.com/outcault-goddard-the-comics-and-the-yellow-kid/) comic strip, the color [offset press](https://en.wikipedia.org/wiki/Offset_printing),  [transistor radios ](https://www.nutsvolts.com/magazine/article/the_transistor_radio) and PARC's [Cookie Monster](https://newsteve.substack.com/p/most-ideas-come-from-previous-ideas) as prototypical tech demos.
 
 ##### Part 2 Stranger in a strange homeland and the role of individuality in a "Non-Player Character" Era
 
