@@ -57,3 +57,5 @@ Did Kurt Cobain really say "Mosquito"? or "How does he know?" And did he say, "A
 ##### Readings
 
 + [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://github.com/hatonthecat/Hurl/blob/main/static/picture.jpg) – Antonio Garcia Martinez; Harper Press, 2017. This required reading covers server-side testing and culture, as well as internal company politics. [Amazon Bookstore Link](https://www.amazon.com/gp/customer-reviews/R11ZXC3WMQ2J0T/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=0062669796)
+
++ [Fear and Loathing in Las Vegas](https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas) - Hunter S. Thomas, 1971. (Whenever I get criticized for having unintelligible or meandering writing, I prefer to [remind](https://en.wikipedia.org/wiki/Hunter_S._Thompson#Writing_style) others that Hunter Thompson's [faxes](https://www.youtube.com/watch?v=KMXNwijhUq4) "became notorious for haphazardly sending sometimes illegible material to the magazine's San Francisco offices as an issue was about to go to press."
