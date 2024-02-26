@@ -1,5 +1,5 @@
 ---
-title: "Fear and Loathing at Phoenix Fab Plant 21"
+title: "HIST 405: Fear and Loathing at Phoenix Fab Plant 21"
 date: 2023-01-10
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Prof. Raoul"
