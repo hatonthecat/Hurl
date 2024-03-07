@@ -19,7 +19,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This graduate course explores what a modern day gonzo journalist might cover instead of the Mint 400 and the Kentucky Derby. Research topics include Silicon Valley and new semiconductor foundries being manufactured near Las Vegas. This question was first posed as a [thought probe](https://github.com/hatonthecat/Hurl/blob/main/static/Thought%20Probe.pdf) in October and [November](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Remaking%20the%20Nokia%206110%20and%20Psion%20Series%203%20on%2022nm%20PDF%20pages%201-19.pdf) 2022.
+This graduate course explores what a modern day gonzo journalist might cover instead of the Mint 400 and the Kentucky Derby. Research topics include Silicon Valley and new semiconductor foundries being manufactured near Las Vegas. This question was first posed as a [thought probe](https://github.com/hatonthecat/Hurl/blob/main/static/Thought%20Probe.pdf) in October and [November](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Remaking%20the%20Nokia%206110%20and%20Psion%20Series%203%20on%2022nm%20PDF%20pages%201-19.pdf) 2022. The examination of the term "[fear and loathing](http://www.catb.org/jargon/html/F/fear-and-loathing.html)." 
 
 + Why [there?](https://upload.wikimedia.org/wikipedia/commons/9/94/231105-1_TSMC_Fab_21_construction.jpg)
 + Why [here?](https://www.tomshardware.com/tech-industry/semiconductors/us-chip-fab-construction-is-among-the-slowest-in-the-world-a-complex-web-of-regulations-is-to-blame-according-to-study)
