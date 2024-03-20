@@ -2,7 +2,7 @@
 title: "PHIL 201" 
 date: 2021-06-16
 tags: ["Existentialism","Absurdism","Political Philosophies"]
-author: ["Prof. Name 1","Prof. Name 2"]
+author: ["Prof. Kant"]
 description: "Introduction to Sartre" 
 summary: "A Historical Analysis of Jean-Paul Sartre" 
 cover:
