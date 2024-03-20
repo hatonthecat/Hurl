@@ -76,8 +76,8 @@ Sierpiński Triangle
 
 https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
 
-                           Power critique as logarithmic and multi-level
--- 
+                           Power Critique as Logarithmic and Multi-level/Hierarchical
+
 ![image](https://github.com/hatonthecat/Hurl/assets/76194453/e42b1402-cd8f-4700-b2c7-80e287b0efd2)
 
 The Sierpiński triangle represents a way of visualizing the fused-group as existing on multiple levels, in both autonomous and inter-related levels. If one were to criticize the largest triangle in the set, it would be analogous to critiquing all civilizations and human societies across the globe, along with its individuals on the fringe of society dependency (the uncontacted or mythical lone wolf). Sartre's position, in this sense, could be siding with the second largest triangle within the main triangle, of which there are only three. From 1945-1949, the United States was the sole nuclear power, until the Soviet Union acquired and developed their first nuclear test. While the status of a nuclear power need not be equated with a superpower, this more or less defined the Cold War. Sartre's defense of the USSR could be seen in this regard up until the Hungarian Uprising, where, even though he supported Marxism in principle, could point out the flaws (the gulag and the bayonet). Thus Sartres' ability to critique a entity as oppressive was independent and orthogonal to its size, for personal responsibility applied to both individuals acting within organizations and outside of them. This appears to be one of the only ways to explain Sartre's mixed defense and critique of Marxism. Replacing one form of oppression with another could hardly be considered a recognition of personal or individual freedom. Thus supporting a cause could be considered a means to that end, although if the means or ends infringe on another's freedom, it cannot be considered a worthy cause. In "The Ones Who Walk Away from Omelas," by Ursula K. Le Guin, the imprisonment of even a single disabled child cannot be considered a free society, because anarchy defines all individuals as free from oppression:
