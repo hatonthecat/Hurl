@@ -71,12 +71,12 @@ It is obvious that whenever men and women suffered oppression, they fought again
 
 “Whereas in Marxist theory, classes are the prime agents of history, they are reduced to what Sartre calls ‘series’ in the Critique. Classes do not act in Sartre’s eyes; at best they form milieus. In this way, Sartre implicitly contests the Marxist idea of a revolution by the proletariat.”[227]"
 
-###Sierpiński Triangle###
+Sierpiński Triangle
 --
 
 https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
 
-Power as logarithmic and multi-level
+Power critique as logarithmic and multi-level
 - 
 ![image](https://github.com/hatonthecat/Hurl/assets/76194453/e42b1402-cd8f-4700-b2c7-80e287b0efd2)
 
