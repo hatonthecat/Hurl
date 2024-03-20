@@ -6,7 +6,7 @@ author: ["Prof. Kant"]
 description: "Introduction to Sartre" 
 summary: "A Historical Analysis of Jean-Paul Sartre" 
 cover:
-    image: ""
+    image: "[sartre.png]"
     alt: "Figure caption"
     relative: false
 editPost:
