@@ -19,7 +19,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-Jean-Paul Sartre's influence on political philosophy shaped much of post-war France and the tenuous power sharing relationship between DeGaul and the Socialist coalition government. Some say there are two Sartres- one of his early year up to the conclusion of WWII, and  a post-war Sartre. Analysis will show a running thread of three Sartres, one of a philosopher, a critic of dialectic materialism, and an anarchist.
+Jean-Paul Sartre's influence on political philosophy shaped much of post-war France and the tenuous power sharing relationship between De Gaulle and the PCF coalition government. Some say there are two Sartres- one of his early year up to the conclusion of WWII, and  a post-war Sartre. Analysis will show a running thread of three Sartres, one of a philosopher, a critic of dialectic materialism, and an anarchist.
 
 https://jacobin.com/2021/08/jean-paul-sartre-anti-imperialism-colonialism-france-politics
 
