@@ -118,7 +118,58 @@ https://www.jstor.org/stable/48586981#:~:text=The%20practico%2Dinert%20is%20an,o
 
 "This article focuses on Sartre’s concept of the practicoinert in his major work A Critique of Dialectical Reason, Vol. 1 (CDR). I first show the progression from Sartre’s previous conception of in-itself to his concept of practico-inert. I identify five different layers of the practico-inert: human-made objects, language, ideas, social objects and class being. I show how these practico-inert layers form the possibilities for our subjectivity and how this represents a change from Sartre’s view of in-itself in Being and Nothingness. I then explore the relationship of freedom to the practico-inert and how Sartre argues that the practico-inert places limits on our freedom. Lastly, I argue that despite the pessimistic picture Sartre paints in CDR, the practico-inert has the potential to both limit and enhance our freedom. I appeal to Sartre’s post-CDR essay ‘A Plea for Intellectuals’ to argue that a Sartrean account of progress requires the utilisation of the practico-inert."
 
-Camus, may have agreed more with Sartre, or Sartre may have agreed with Camus, had the former not died at an early age. They shared an interest in anarchic philosophy (Camus openly and incomprehensibly to the European press, before it became popular patchwork in the 90s), in at least that it pertained to individual freedom. But they may have differed most in their views on Algeria, in that Sartre believed more in praxis than Camus' practico-inert opposition to ending colonialism. Nonetheless, as the above CDR critique essay suggests, some mixture of the two may reflect the maximum sphere of freedom for the individual.
+Camus may have agreed more with Sartre, or Sartre may have agreed with Camus, had the former not died at an early age. They shared an interest in anarchic philosophy (Camus openly and incomprehensibly to the European press, before it became popular patchwork in the 90s), in at least that it pertained to individual freedom. But they may have differed most in their views on Algeria, in that Sartre believed more in praxis than Camus' practico-inert opposition to ending colonialism. Nonetheless, as the above CDR critique essay suggests, some mixture of the two may reflect the maximum sphere of freedom for the individual. 
+
+In a 2012 lecture, Wes Cecil describes Sartre in an instructional role when a teacher in a high school in the early 30s, and, recommending the students attend (the new at the time) cinema, was viewed by his school's administration as equivalent to the activities with the devil. https://youtu.be/UzcPpJXkPLQ?t=569 
+(Note: this autotranslate is not always accurate )
+
+"but it is a very it's sort of a classically Bruges huazi high school it would be I came and think of an
+8:49
+equivalent be sort of going to redden being assigned to a high school in Redmond right your your now this sort of
+8:56
+upper middle class school or the teeth as parents have pretensions and have these big plans for their student and
+9:02
+enroll Sartre and he's like me yeah I'm not part of this program and he's become
+9:09
+sort of an anti-establishment professor the professor the first lecture of the
+9:15
+graduation every year the newest professor always gives the sort of convocation and traditionally has become
+9:22
+themes of Education and whatnot and start walks up and says movies you should all go watch a lot of films
+9:29
+because elders are great I love film it's the new medium is the art form for
+9:34
+the 20th century this is where our ideas are going to come for this is the greatest art form that's been invented
+9:40
+in two hundred years and he just goes on and on at a time when going to the cinema base whether
+9:45
+the devil lived in the cinema right he was going to corrupt your morals and of course the students are like you love
+9:51
+this guy great and and but but the parents they were a little dicey plus"
+
+Note at this time, cinema was not yet popular as it was in the later French Wave- the most celebrity parents and the establishment were willing to tolerate were authors, and in this sense, Camus was almost like a French James Dean- who also died young. 
+
+"Camus was rejecting existentialism as a philosophy, but his critique was mostly focused on Sartrean existentialism, and to a lesser extent on religious existentialism. He thought that the importance of history held by Marx and Sartre was incompatible with his belief in human freedom.[87] David Sherman and others also suggest the rivalry between Sartre and Camus also played a part in his rejection of existentialism.[88] David Simpson argues further that his humanism and belief in human nature set him apart from the existentialist doctrine that existence precedes essence.[89]"
+
+An exercise that might reconcile the differences in human freedom might be able to analogize "humanism" to Sartre's definition of "fused groups" within a labor union, and the existence of "wild cat strikes." Both Sartre and Camus understood that freedom is incompatible with any level of injustice formed by a group. For example, suggesting someone storm the Bastille to prevent further injustice, regardless of the form of the coup), says nothing about a hypothetical stampede that results in loss of fruit vendor's (innocent bystander's) life from a queue outside the Bastille's gates prior to entering the prison. Would this be considered "collateral damage," negligience, or an injustice of the fused group?
+
+https://danieltutt.com/2016/06/14/badious-revision-of-sartres-fused-group/
+
+
+https://guava.physics.ucsd.edu/projects/FIBR_overview.html
+
+"Put a big enough group of ostensibly sensible, rational people together, and stir: what do you get? The all-too-common answer is: "the madness of crowds". Observed in financial market crashes, riots, political systems, music fashions, perhaps even academic fads, cooperative phenomena arise when ever there are sufficient communication channels open for the behavior of individuals to be subsumed by collective effects. The madness of crowds doesn't just apply to people: we see its effects in animals (think "herd mentality") and even at the microbial level, as we shall see below. All of this is an example of the burgeoning science of biocomplexity, the collision between traditional biology and modern dynamical systems theory."
+
+According to Cognitive Dissonance scholars, cognitive dissonance arises when external observations do not match the internal models of the world, and cause a conflict in navigating the world as believed.
+
+https://www.planetcritical.com/p/the-cognitive-dissonance-crisis 
+
+Therefore, while "ostensibly rational" people in a room or crowd, may, in their shared goal believe in a just cause "overthrowing the French monarchy," the observation of localized violence carries a degree of premeditation- the knowledge that assembling a crowd can cause a stampede cannot be ruled out, but since skeptics, as Orwell points out, ""One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power."_ -1984 The fused group can plausibly claim that the apple cart vendor's loss of life was an "acceptable loss," but they also cannot deny the probability was increased in planning the Bastille siege. Furthermore, once the monarchy was overthrown, the divisions between the Montagnards and Girondins can be analogized to the differences between the rural and urban U.S. states in 2016- under the questionable platform of winding down external intervention in Afghanistan and later, Ukraine:
+
+"The Mountain was the left-leaning radical group and opposed the more right-leaning Girondins. Despite the fact that both groups of the Jacobin Club had no virtual difference with regard to the establishment of the French Republic, the aggressive military intentions of the rich merchant class-backed Girondins such as conquering the Rhineland, Poland and the Netherlands with a goal of creating a protective ring of satellite republics in Great Britain, Spain and Italy [11] and a potential war with Austria,[12] enabled the Montagnards to take over the administrative power of the National Convention under the leadership of Maximilien Robespierre who openly advocated for a more peaceful external policy and rather focusing on the issues within the newly-founded First French Republic.[13]"
+
+Of course, the Democratic party today isn't considered imperial in the same sense, other than a higher support for defense spending https://www.politico.com/news/2022/07/26/democrats-defense-spending-military-00048041
+https://fedmanager.com/news/congress-passes-2024-ndaa-as-more-house-democrats-than-republicans-back-bill
 
 Situationism as a Fountain: Subversive Absurdity or Subversive Postivism? 
 ---
@@ -130,3 +181,6 @@ https://www.kritike.org/journal/issue_3/mancenido_june2008.pdf
 
 https://libcom.org/article/why-art-cant-kill-situationist-international
 
+Absurdity as a Futures Market
+--
+Examining the value of absurdist existentialism is a way of appraising declining interest in neo-liberal coalitions. The surge in Bernie Sanders voters in 2016 in a remarable short time did not materialize out of nowhere, but represented a latent and subterranean anxiety of the disaffected left. Rather than exploit these uncertainties with partisan talking points that are lobbed with Hegelian reductio ad absurdum, Sartre attempted to create a logical framework to decommission the fused group whenever it malfunctioned beyond repair. As many in the early 50s continued to row towards [Soviet](https://www.youtube.com/watch?v=mqhpZ30uNic)https://www.youtube.com/watch?v=mqhpZ30uNic, Sartre was disembarking the sub and weaving his own lifeboat by 1956, after discovering some of the crates aboard the vessel were armaments destined for Budapest.
