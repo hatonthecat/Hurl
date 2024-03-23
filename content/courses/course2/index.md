@@ -118,4 +118,15 @@ https://www.jstor.org/stable/48586981#:~:text=The%20practico%2Dinert%20is%20an,o
 
 "This article focuses on Sartre’s concept of the practicoinert in his major work A Critique of Dialectical Reason, Vol. 1 (CDR). I first show the progression from Sartre’s previous conception of in-itself to his concept of practico-inert. I identify five different layers of the practico-inert: human-made objects, language, ideas, social objects and class being. I show how these practico-inert layers form the possibilities for our subjectivity and how this represents a change from Sartre’s view of in-itself in Being and Nothingness. I then explore the relationship of freedom to the practico-inert and how Sartre argues that the practico-inert places limits on our freedom. Lastly, I argue that despite the pessimistic picture Sartre paints in CDR, the practico-inert has the potential to both limit and enhance our freedom. I appeal to Sartre’s post-CDR essay ‘A Plea for Intellectuals’ to argue that a Sartrean account of progress requires the utilisation of the practico-inert."
 
-Camus, may have agreed more with Sartre, had he not died at an early age. They shared an interest in anarchic philosophy, in at least that it pertained to individual freedom. But they may have differed most in their views on Algeria, in that Sartre believed more in praxis than Camus' practico-inert opposition to ending colonialism. Nonetheless, as the above CDR critique essay suggests, some mixture of the two may reflect the maximum sphere of freedom for the individual.
+Camus, may have agreed more with Sartre, or Sartre may have agreed with Camus, had the former not died at an early age. They shared an interest in anarchic philosophy (Camus openly and incomprehensibly to the European press, before it became popular patchwork in the 90s), in at least that it pertained to individual freedom. But they may have differed most in their views on Algeria, in that Sartre believed more in praxis than Camus' practico-inert opposition to ending colonialism. Nonetheless, as the above CDR critique essay suggests, some mixture of the two may reflect the maximum sphere of freedom for the individual.
+
+Situationism as a Fountain: Subversive Absurdity or Subversive Postivism? 
+---
+Sartre's _Being and Nothingness_ emphasizes the non-negation nothingness, and that the individual is responsible for those decisions. The Situationists' precipitation of late-stage capitalism in May of 1968 merely highlighted the role that the hyperreal individual played, but did not negate their activity to bad faith. France's enlightnment was being replaced by post-modernism, and Situationism's disappearing act was explained by its sublation into antiquity. Inasmuch Situationism serves a memserizing reminder of postmodernisms sumblimation, Sartre's disciples are allowed to fallow reflexively while accelerationist industry re-attempts its Sisyphean climb.  
+
+https://www.jstor.org/stable/23511087 
+
+https://www.kritike.org/journal/issue_3/mancenido_june2008.pdf
+
+https://libcom.org/article/why-art-cant-kill-situationist-international
+
