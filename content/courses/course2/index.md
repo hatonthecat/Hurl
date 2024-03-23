@@ -122,7 +122,7 @@ Camus, may have agreed more with Sartre, or Sartre may have agreed with Camus, h
 
 Situationism as a Fountain: Subversive Absurdity or Subversive Postivism? 
 ---
-Sartre's _Being and Nothingness_ emphasizes the non-negation nothingness, and that the individual is responsible for those decisions. The Situationists' precipitation of late-stage capitalism in May of 1968 merely highlighted the role that the hyperreal individual played, but did not negate their activity to bad faith. France's enlightnment was being replaced by post-modernism, and Situationism's disappearing act was explained by its sublation into antiquity. Inasmuch Situationism serves a memserizing reminder of postmodernisms sumblimation, Sartre's disciples are allowed to fallow reflexively while accelerationist industry re-attempts its Sisyphean climb.  
+Sartre's _Being and Nothingness_ emphasizes the non-negation nothingness, and that the individual is responsible for those decisions. The Situationists' precipitation of late-stage capitalism in May of 1968 merely highlighted the role that the hyperreal individual played, but did not limit their activity to bad faith. Demonstrating bad faith melodramaitcally was necessary to demonstrate its tinniness in post-modern society. France's Enlightnment was being replaced by post-modernism, and Situationism's disappearing act was explained by its sublation into antiquity. Inasmuch Situationism serves a memserizing reminder of postmodernisms sublimation, Sartre's disciples are allowed to fallow reflexively while accelerationist industry re-attempts its Sisyphean climb.  
 
 https://www.jstor.org/stable/23511087 
 
