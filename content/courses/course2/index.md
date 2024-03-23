@@ -108,10 +108,10 @@ In "The Ones Who Walk Away from Omelas," by Ursula K. Le Guin, the imprisonment 
 
 This concept can also be extended to the idea of [open individualism](https://en.wikipedia.org/wiki/Open_individualism#History) (the idea that "there exists only one numerically identical subject, who is everyone at all times, in the past, present and future.") 
 
-Political science can be exercised as a thought experiment, whether in a fictional novel, or in a dialectic. Hegel's dialectic is abstract. Marx attempted to bring that abstract to the material. Kierkegaard's existentialism was adopted by Sartre, and exercised both thought experiments (addressing the practico-inert) and praxis: https://blogs.law.columbia.edu/critique1313/maximilian-ringleb-existentialist-praxis-beyond-idealist-marxism-or-how-can-sartre-help-us-today/
-
 A Hybrid Approach
 --
+
+Political science can be exercised as a thought experiment, whether in a fictional novel, or in a dialectic. Hegel's dialectic is abstract. Marx attempted to bring that abstract to the material. Kierkegaard's existentialism was adopted by Sartre, and exercised both thought experiments (addressing the practico-inert) and praxis: https://blogs.law.columbia.edu/critique1313/maximilian-ringleb-existentialist-praxis-beyond-idealist-marxism-or-how-can-sartre-help-us-today/ :
 
 "Sartre’s interpretation of Marx as the synthesis of Kierkegaard and Hegel, of existentialism and objective reality, sheds further light on his overarching project in Critique of Dialectical Reason. Rather than attempting to unite Marxism and existentialism as two previously isolated philosophies, Sartre aims to reclaim an existentialist Marxism that he sees first expressed in Marx himself. In the conclusion of his Search for a Method, Sartre reiterates unambiguously: “Marx’s own Marxism, while indicating the dialectical opposition between knowing and being, contained implicitly the demand for an existential foundation for the theory.”[6] In our discussion, Noreen Khawaja presented an illustrative methodological analogy of Sartre’s project as an attempt to unite dialectic thought and phenomenology. Indeed, one might argue that such an approach was first introduced by Hegel, which further supports the interpretation of Sartre’s project as a reclamation rather than an original claim."
 
