@@ -186,9 +186,9 @@ Anarchist government may be best analogized to the most unstable of atoms in the
 
 https://en.wikipedia.org/wiki/Talk%3APeriodic_table_%28extended%29
 
-Situationism as a Fountain: Subversive Absurdity or Subversive Positivism? 
+Situationism as a Fountain: Nihilist act or Subversive Resource? 
 ---
-Sartre's _Being and Nothingness_ emphasizes the non-negation of nothingness, and that the individual is responsible for those decisions. The Situationists' precipitation of late-stage capitalism in May of 1968 merely highlighted the role that the hyperreal individual played, but did not limit their activity to bad faith. Demonstrating bad faith melodramaitcally was necessary to demonstrate its tinniness in post-modern society. France's Enlightnment was being replaced by post-modernism, and Situationism's disappearing act was explained by its sublation into antiquity. Inasmuch Situationism serves a memserizing reminder of postmodernisms sublimation, Sartre's disciples are allowed to fallow reflexively while accelerationist industry re-attempts its Sisyphean climb.  
+Sartre's _Being and Nothingness_ emphasizes the non-negation of nothingness, and that the individual is responsible for those decisions. The Situationists' precipitation of late-stage capitalism in May of 1968 merely highlighted the role that the hyperreal individual played, but did not limit their activity to bad faith. Demonstrating bad faith melodramatically was necessary to demonstrate its tinniness in post-modern society. France's Enlightnment was being replaced by post-modernism, and Situationism's disappearing act was explained by its sublation into classic but largely shelved scholarship. Inasmuch Situationism serves as a reminder of postmodernism's sublimation into [Capitalism](https://people.duke.edu/~hardt/Deleuze&Guattari.html), Sartre's disciples fallow reflexively while accelerationist industry re-attempts its Sisyphean climb.
 
 https://www.jstor.org/stable/23511087 
 
