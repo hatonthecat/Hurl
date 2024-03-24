@@ -1,5 +1,5 @@
 ---
-title: "PHIL 201" 
+title: "PHIL 201: Introduction to Sartre" 
 date: 2021-06-16
 tags: ["Existentialism","Absurdism","Political Philosophies"]
 author: ["Prof. Kant"]
