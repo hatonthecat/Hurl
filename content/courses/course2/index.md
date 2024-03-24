@@ -103,7 +103,7 @@ _“You are here because you have failed in humility, in self-discipline. You wo
 Sartre's Most Interesting Gesture
 --
 
-While Orwell critiqued Stalinism in its totalitarian sense, Sartre, who did not represent a life-long committment to communism, would later see his successors, the [Situationists](https://monoskop.org/images/2/24/Plant_Sadie_The_Most_Radical_Gesture_The_Situationist_International_in_a_Postmodern_Age.pdf), in May of 1968, the spirit of Absurdity- bags of wind that floated the streets of Paris in their dérive. Their participation, was both performative and in bad faith, unwittingly, as hyperrealism engulfed the essence of [Modernity,](https://youtu.be/_g8JVK4Fppw?t=232) the classic intellectual, in the twilight hours of the 1960s.  
+While Orwell critiqued Stalinism in its totalitarian sense, Sartre, who did not represent a life-long committment to communism, would later see his successors, the [Situationists](https://monoskop.org/images/2/24/Plant_Sadie_The_Most_Radical_Gesture_The_Situationist_International_in_a_Postmodern_Age.pdf), in May of [1968](https://processedworld.com/Issues/issue33/gesture.htm), the spirit of Absurdity- bags of wind that floated the streets of Paris in their dérive. Their participation, was both performative and in bad faith, unwittingly, as hyperrealism engulfed the essence of [Modernity,](https://youtu.be/_g8JVK4Fppw?t=232) the classic intellectual, in the twilight hours of the 1960s.  
 
 In "The Ones Who Walk Away from Omelas," by Ursula K. Le Guin, the imprisonment of even a single disabled child cannot be considered a free society, because anarchy defines all individuals as free from oppression:
 
