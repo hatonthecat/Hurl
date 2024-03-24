@@ -111,6 +111,17 @@ In "The Ones Who Walk Away from Omelas," by Ursula K. Le Guin, the imprisonment 
 
 This concept can also be extended to the idea of [open individualism](https://en.wikipedia.org/wiki/Open_individualism#History) (the idea that "there exists only one numerically identical subject, who is everyone at all times, in the past, present and future.") 
 
+from https://plato.stanford.edu/entries/sartre/ :
+
+In the conclusion of his essay, Sartre stresses the philosophical significance of the relationship between imagination and freedom, which are both necessarily involved in our relationship to the world. Imagination, Sartre writes, “is the whole of consciousness as it realizes its freedom” (Sartre 1940 [2004: 186]). Imaging consciousness posits its object as “out of reach” in relation to the world understood as the synthetic totality within which consciousness situates itself. For Sartre, the imaginary creation is only possible if consciousness is not placed “in-the-midst-of-the-world” as one existent among others.
+
+For consciousness to be able to imagine, it must be able to escape from the world by its very nature, it must be able to stand back from the world by its own efforts. In a word, it must be free. (Sartre 1940 [2004: 184])
+
+_"We cannot neatly sum up a public intellectual and man of letters, like Sartre, to conclude. We do think, however, that it is arguable, with the benefit of hindsight, that some of Sartre’s interventions are prescient rather than outmoded remnants of the nineteenth century (à la Foucault). They certainly presage issues that are in the foreground today, concerning class, race, and gender. That doesn’t mean that Sartre got it all correct, of course, whatever that might mean in regard to the complex realities of socio-political life. Indeed, if one is to take a stand on so many of the major socio-political issues of one’s time, as Sartre did, it is inevitable that history will not look kindly on them all. Sartre’s life and writings hence present a complex and difficult interpretive task, but they remain a powerful provocation for thought and action today."__
+
+Situationism's foundation is built on imagination.
+
+
 A Hybrid Approach
 --
 
