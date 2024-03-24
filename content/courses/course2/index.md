@@ -113,7 +113,7 @@ This concept can also be extended to the idea of [open individualism](https://en
 
 from https://plato.stanford.edu/entries/sartre/ :
 
-In the conclusion of his essay, Sartre stresses the philosophical significance of the relationship between imagination and freedom, which are both necessarily involved in our relationship to the world. Imagination, Sartre writes, “is the whole of consciousness as it realizes its freedom” (Sartre 1940 [2004: 186]). Imaging consciousness posits its object as “out of reach” in relation to the world understood as the synthetic totality within which consciousness situates itself. For Sartre, the imaginary creation is only possible if consciousness is not placed “in-the-midst-of-the-world” as one existent among others.
+"In the conclusion of his essay, Sartre stresses the philosophical significance of the relationship between imagination and freedom, which are both necessarily involved in our relationship to the world. Imagination, Sartre writes, “is the whole of consciousness as it realizes its freedom” (Sartre 1940 [2004: 186]). Imaging consciousness posits its object as “out of reach” in relation to the world understood as the synthetic totality within which consciousness situates itself. For Sartre, the imaginary creation is only possible if consciousness is not placed “in-the-midst-of-the-world” as one existent among others.
 
 For consciousness to be able to imagine, it must be able to escape from the world by its very nature, it must be able to stand back from the world by its own efforts. In a word, it must be free. (Sartre 1940 [2004: 184])
 
