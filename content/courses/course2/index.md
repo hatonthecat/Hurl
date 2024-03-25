@@ -351,7 +351,7 @@ Using theatre as discourse"
 
 In other words, he wants to replace the Greek Tragedy storytelling medium with a participative activity, because not everyone who attends is expected to enjoy their experience, and that is oppressive.
 
-While no one knows how the Greek tragedy evolved, it certainly has a lasting appeal https://en.wikipedia.org/wiki/Greek_tragedy#The_evolution_of_tragedy
+While no one knows how the Greek tragedy originated, it certainly has a lasting appeal https://en.wikipedia.org/wiki/Greek_tragedy#The_evolution_of_tragedy
 
 It is unclear what parts of _Hamlet_ Boal quoted most, but the most "spect-actor" moment in the play is actually the play within the play:
 "Hamlet then asks the actors to stage _'The Murder of Gonzago'_, a play featuring a death in the style of his father's murder. Hamlet intends to study Claudius's reaction to the play, and thereby determine the truth of the ghost's story of Claudius's guilt." Focusing the audience's attention on more than one spectator at a time is not just bad theatre direction, it denies the auteur the ability to narrate, and, the theater was designed for that purpose. The only thing Theater of the Oppressed has accomplished is that he has taken the narrative to the outside world, in both guerilla and institutional setttings. Which is why today Academia is more Hollywood, and Hollywood is a greater Custodian of Universal truth, paradoxically. Politics, however, has always been a mix of the two. Thus in order for academia to return to its classical roots, it needs outside actors to narrate the story of academia turned politics. Christopher Nolan would surely take an interest to directing such a film.
