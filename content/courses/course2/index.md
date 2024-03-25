@@ -328,3 +328,36 @@ What is the difference between art, instruction, and the prestige of expertise i
 
 Being For-Itself does not imply ignorance of oppression. The waiter works as a means, rather than in-itself. Inasmuch the system does not allow an equitable opportunity for all individuals, he cannot be compared to Eichmann's [Banality of Evil](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem#Banality_of_evil) for earning a wage, even owning property, for he must control his destiny inasmuch as he can promote a greater good. That so much pedagogy is programmed to discard knowledge is exothermic and contributes to global warming. One cannot support capitalism in a way that supports daily book burnings, only to advise students to download a revised ebook of _Pedagogy of the Oppressed_ saying that Oceania is now at War with Eastasia. _1984's_ [memory hole](https://en.wikipedia.org/wiki/Memory_hole) represents the collective manifestation of academia's incinerators' global greenhouse emissions.
 
+Theatre of the Absurd accosts Theater of the Oppressed
+--
+Ionesco, Beckett, Adamov, Camus, and Sartre were the foremost existential and abusrdist playwrights who rallied against fascism and Stalinism (and also daily struggles). Notable works are _Rhinoceros_, _Waiting for Godot_, _Professor Taranne_, _Caligula_, and _No Exit_
+
+Theatre of the Oppressed was formulated by Augosto Boal, who "studied at Columbia University in New York with the critic John Gassner. Gassner introduced Boal to the techniques of both Bertolt Brecht and Konstantin Stanislavski, and encouraged Boal to form links with theatre groups like the Black Experimental Theatre."
+
+Boal's teachings were controversial, and as a cultural activist he was seen as a threat by the Brazilian military regime. In 1971, Boal was kidnapped off the street, arrested, tortured, and eventually exiled to Argentina,[1] where he stayed for five years. During those five years, Boal published two books: Torquemada (1971) and his much acclaimed [Theatre of the Oppressed](https://en.wikipedia.org/wiki/Augusto_Boal#Theatre_of_the_Oppressed_(London:_Pluto_Press,_1979)) (1973). Torquemada is about the Brazilian military regime's systematic use of torture in prison.[8] Boal takes the name of the leading figure of the Spanish Inquisition, Tomas de Torquemada, as an example of historical forms of systematic torture.
+
+"Boal was also known to quote William Shakespeare's Hamlet, in which Hamlet argues that theatre is like a mirror that reflects our virtues and defects equally. Although Boal found this quote beautiful, he liked to think of theatre as a mirror in which one can reach in to change reality and to transform it.[15]"
+
+A main element of Theatre of the Oppressed is "[Spect-actor](https://en.wikipedia.org/wiki/Augusto_Boal#Exile)https://en.wikipedia.org/wiki/Augusto_Boal#Exile"
+
+"Boal's method (which has been implemented in various communities around the world) seeks to transform audiences into active participants in the theatrical experience. Boal argues that traditional theatre is oppressive since spectators usually do not get a chance to express themselves and that a collaboration between both parties, in contrast, allows spectators to perform actions that are socially liberating. The method, as Boal liked to explain, seeks to transform spectators into "spect-actors."[10]"
+
+"Boal's work in Peru with the ALFIN project, a movement which sought to use a range of languages including "artistic languages" to eradicate illiteracy, developed his ideas and methodology away from the agit-prop of his Brazilian Arena Theatre days and sought to engage theatre as a pedagogical tool. Crucial to this time was Boal's attempts to break down the divisions between spectator and actor. It is around this time that invented the term "spect-actor", a term that he saw as establishing the frameworks within which he wished to work.[2] He saw that the passivity of the spectator could be broken down by the following steps by which the spectator becomes the spect-actor:
+
+Knowing the body (by body he means both the individual "body" and the collective "body" in a Marxist sense)
+Making the body expressive
+Using theatre as a language
+Using theatre as discourse"
+
+In other words, he wants to replace the Greek Tragedy storytelling medium with a participative activity, because not everyone who attends is expected to enjoy their experience, and that is oppressive.
+
+While no one knows how the Greek tragedy evolved, it certainly has a lasting appeal https://en.wikipedia.org/wiki/Greek_tragedy#The_evolution_of_tragedy
+
+It is unclear what parts of Hamlet Boal quoted most, but the most "spect-actor" moment in the play is actually the play within the play:
+"Hamlet then asks the actors to stage _'The Murder of Gonzago'_, a play featuring a death in the style of his father's murder. Hamlet intends to study Claudius's reaction to the play, and thereby determine the truth of the ghost's story of Claudius's guilt."
+
+A play that is transformed into a question and answer session is hardly entertainment. But 2 hours of silence, even when afforded one to two 15 minute intermissions with concessions and restrooms, is an injustice and a crime against humanity. 
+
+Today, pedagogical ideologies are institutionalized in ways that can [divide](https://www.leftvoice.org/a-critique-of-pedagogy-of-the-oppressed/) as much as they can unite. But equitable access to basic needs are a precondition to the dialogic types of learning exercises that do not help in gaining basic literacy, whether via an "artistic language" or otherwise.
+
+I would rather watch American Idol Judge a group of Theater of the Oppressed compete against a cast of Theatre of the Absurd. Both groups could use a Play within a Play. The question is, would an audience expecting singers to perform get more applause from No Exit or Theatre of the Oppressed? 
