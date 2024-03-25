@@ -213,3 +213,118 @@ https://libcom.org/article/why-art-cant-kill-situationist-international
 Absurdity as a Futures Market: Clinical and Applied Absurdity
 --
 Examining the value of absurdist existentialism is a way of appraising declining interest in neo-liberal coalitions. The surge in Bernie Sanders voters in 2016 in a remarkable short time did not materialize out of nowhere, but represented a latent and subterranean anxiety of the disaffected left. Rather than exploit these uncertainties with partisan talking points that are lobbed not with Hegelian dialectics, but [argumentum ad infinitum.](https://wiki.c2.com/?ArgumentumAdInfinitum) Sartre attempted to create a logical framework to decommission the fused group whenever it malfunctioned beyond repair. As many in the early 50s continued to row towards the [Soviet](https://www.youtube.com/watch?v=mqhpZ30uNic) fleet, Sartre was disembarking the sub and weaving his own lifeboat by 1956, after discovering some of the crates aboard the vessel were armaments destined for Budapest.
+
+Absurdism as Science
+--
+
+Sartre, who worked as a meterologist when drafted in WWII, made observations about the direction a balloon made. When watching cinema, he observed that the scripted lines differed from that of people on the streets In the 1999 BBC Documentary, The Road to Freedom, Sartre's contemporaries are interviewed and describe him as the embodiment of free thought: https://www.youtube.com/watch?v=q3ttT1eZO6s
+
+The philosophical and humanists that view irrationality as an illogical aspect of human nature would appear to be the same as rounding irrational numbers to a fixed decimal point. In the irrationally fused approach, the natural world is irrational inasmuch pi's decimals are never ending.
+
+"In mathematics, the irrational numbers (in- + rational) are all the real numbers that are not rational numbers. That is, irrational numbers cannot be expressed as the ratio of two integers."
+
+Using this concept, one can view absurdism as human nature that cannot be expressed as the ratio of two logical ideas or praxes. That, however, does not disprove the absence of logical ideas within those two ideas. One can act rationally within an irrational set of numbers, because there is no defined instruction or law as to how one should act in every situation.
+
+In Being and Nothingness, Sartre makes the distiction between Being In Itself and Being for-itself:
+
+"A contrast heralded in the phenomenology of Husserl and Heidegger, and central to Sartre's work Being and Nothingness. Being for-itself (pour-soi) is the mode of existence of consciousness, consisting in its own activity and purposive nature; being in-itself (en-soi) is the self-sufficient, lumpy, contingent being of ordinary things. The contrast bears some affinity to Kant's distinction between the perspective of agency or freedom and that of awareness of the ordinary phenomenal world."
+https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095456283
+
+https://en.wikipedia.org/wiki/Being_in_itself#Being-in-itself_for_Sartre
+
+"Sartre depicted a man in a café who has applied himself to a portrayal of his role as a waiter. The waiter thinks of himself as being a waiter (as in being-in-itself), which Sartre says is impossible since he cannot be a waiter in the sense that an inkwell is an inkwell. He is primarily a man (being-for-itself), just one who happens to be functioning as a waiter – with no fixed nature or essence, who is constantly recreating himself. He is guilty of focusing on himself as being-in-itself and not being-for-itself. Sartre would say that as a human, a being-for-itself by nature, the waiter is "a being that is not what it is and it is what it is not." Therefore, the waiter who acts as if he is at his very core a waiter "is not what [he] is"- which is to say, he is not solely a waiter- and "is what [he] is not"- meaning that he is many things other than a waiter. In simply playing the part of a waiter, the man in this example is reducing himself to a "being-in-itself" and is therefore in bad faith."
+
+https://en.wikipedia.org/wiki/Ecopedagogy#Discussion_of_term_in_literature
+
+A similar contrast can be observed in Ecopedagogy:
+
+"Ironically, at the same time it was coined by Freire's friend-cum-critic Ivan Illich (1988) to describe an educational process in which educators and educands become inscribed in abstract pedagogical systems, resulting in pedagogy as an end and not a means.[16] As used by Illich, ecopedagogy is represented by forms of education that seek the total administration of life through mandatory pedagogical experiences of systemization. As such, he believed that the movements for lifelong education and the creation of global classrooms (Illich & Verne, 1981) by bureaucratic educational institutions exemplified such approaches."
+
+Therefore, cross-examining Ilyich-Freire with Husserl and Heidegger, using one Sartrean lazy eye, the irrational lens (being-for-itself), and one normal eye, the rational lens (being in-itself), one can see view the waiter's need to serve the position to an ends, (being for itself), but does not have a pre-defined definition of what being in-itself must be. The essence of his role is determined wholly by society and their expectations.
+
+Pedadogy of the Oppressed or Pedagogy for the Oppressed?
+--
+Applying the Sartrean analysis to the broader role of Pedagogy in influencing Global North instruction, alternative definitions have been used: 
+
+"10-2003 Pedagogy for the Economically Privileged: “Tuning
+In” to the Privileged Learner
+Ann Curry-Stevens" https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1094&context=socwork_fac
+
+"Pedagogy of the Privileged Tracey Nicholls"
+The CLR James Journal
+Vol. 17, No. 1, Special Issue: On the Emancipatory Thought of bell hooks (FALL 2011), pp.
+https://www.jstor.org/stable/26758832 
+
+"Pedagogy of the Privileged: Globalization, Identity, Belonging, and Empowerment
+Jamie Frueh, Ph.D." January 2020 https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/5e337c0d0238e40018302a47/original/pedagogy-of-the-privileged-globalization-identity-belonging-and-empowerment.pdf
+
+Lincoln's Gettysburg Address: 
+https://en.wikipedia.org/wiki/Gettysburg_Address
+"[...] that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom[7]—and that government of the people, by the people, for the people, shall not perish from the earth.[8][9]"
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7307473/
+Harpreet Singh Grover "doi: 10.4103/jisp.jisp_149_20 J Indian Soc Periodontol. 2020 May-Jun; 24(3): 190. 
+PMCID: PMC7307473
+PMID: 32773968
+“…Of the people, by the people, for the people”"
+"Freedom and democracy are often deemed interchangeable but the two are certainly not synonymous and it can safely be premised that democracy is the institutionalization of freedom and constitution is the bulwark of democracy."
+
+Perhaps Freire's _Pedagogy of the Oppressed_ should be adapted to Lincoln's Gettysburg Address:
+
+Pedagogy of the Oppressed, by the Oppressed, for the Oppressed. 
+
+Left As Is, "Of the Oppressed" represents a sentence fragment- a non-statement as to by who or what pedagogy should be taught by. Pedagogy _of the_ Oppressed is more "In-itself" that "for itself" - it describes essence but not being. It omits what it counts as oppressive, while being oppressive in its own pedagogical agenda:
+
+"In a 2009 article for the conservative City Journal, Sol Stern wrote that Pedagogy of the Oppressed ignores the traditional touchstones of Western education (e.g. Jean-Jacques Rousseau, John Dewey, or Maria Montessori) and contains virtually none of the information typically found in traditional teacher education (e.g., no discussion of curriculum, testing, or age-appropriate learning). On the contrary, Freire rejects traditional education as "official knowledge" that intends to oppress.[19] Stern also wrote in 2006 that heirs to Freire's ideas have taken them to mean that since all education is political: "leftist math teachers who care about the oppressed have a right, indeed a duty, to use a pedagogy that, in Freire's words, 'does not conceal—in fact, which proclaims—its own political character'".[20]"
+https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed#Reception
+
+This returns to the Orwellian novel, 1984, where [newspeak](https://en.wikipedia.org/wiki/Newspeak) omits all concepts. Advanced concepts are banned to and beyond the secondary education. A tertiary education becomes an "unlearning" policy-making board for all interested parties, banning many types of words in the name of safe spaces: https://en.wikipedia.org/wiki/Safe_space This promotes a new challenge for academic instruction- Meta-pedagogy for and by the pedadgogists. 
+
+"In the dystopian novel Nineteen Eighty-Four (1984), by George Orwell, Newspeak is the fictional language of Oceania, a totalitarian superstate. To meet the ideological requirements of Ingsoc (English Socialism) in Oceania, the Party created Newspeak, which is a controlled language of simplified grammar and limited vocabulary designed to limit a person's ability for critical thinking. The Newspeak language thus limits the person's ability to articulate and communicate abstract concepts, such as personal identity, self-expression, and free will,[1][2] which are thoughtcrimes, acts of personal independence that contradict the ideological orthodoxy of Ingsoc collectivism.[3][4]"
+
+"Historically, a truly liberal education has been reserved for elites, and even with the expansion of
+tertiary education, most Americans still receive an education designed to empower them in only very
+limited ways (Pfnister 1984, Scheider 2008). While in theory, democracy depends on empowering
+rational, independently thoughtful and creative individuals, in practice we tend to compartmentalize
+deliberation, reserving it for particular types of situations and particular people. The result is that
+students are often surprised by assessment systems and evaluation criteria that demand they think
+for themselves. Advocates for liberal education often find they must convince potential students,
+their families, legislators, and society at large of the value of such an agency-laden education." 
+Frueh, 2020
+
+"In the book, Freire calls traditional pedagogy the "banking model of education" because it treats the student as an empty vessel to be filled with knowledge, like a piggy bank. He argues that pedagogy should instead treat the learner as a co-creator of knowledge.[1]"
+
+He also believes those who hold on to the past knowledge to build new things as necrophilous:
+
+""Because banking education begins with a false understanding of
+men and women as objects, it cannot promote the development of
+what Fromm calls "biophily," but instead produces its opposite:
+"necrophily."
+While life is characterized by growth in a structured
+functional manner, the necrophilous person loves all that does
+not grow, all that is mechanical. The necrophilous person is
+driven by the desire to transform the organic into the
+inorganic, to approach life mechanically, as if all living
+persons were things. . . . Memory, rather than experience;
+having, rather than being, is what counts.' The necrophilous
+person can relate to an object -- a flower or a person -- only if
+he possesses it; hence a threat to his possession is a threat to
+himself, if he loses possession he loses contact with the
+world. . . . He loves control, and in the act of controlling he
+kills life.4
+Oppression—overwhelming control—is necrophilic; it is
+nourished by love of death, not life. The banking concept of
+education, which serves the interests of oppression, is also
+necrophilic. Based on a mechanistic, static, naturalistic, spatialized
+view of consciousness, it transforms students into receiving objects.
+It attempts to control thinking and action, leads women and men to
+adjust to the world, and inhibits their creative power.""
+
+http://puente2014.pbworks.com/w/file/fetch/87465079/freire_banking_concept.pdf
+
+The irony, of course, is that the volume of political representation in mechanical reproduced art as first observed by Walter Benjamin's 1935 [essay](https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction) is that today's hardcoded AI Chromebooks and smartphones are less learning aids than political tools of manipulation.
+
+What is the difference between art, instruction, and the prestige of expertise in tertiary education? As economic factors become more pressing, differentiating between the three becomes increasing focus as to ascertain the value of higher education when it becomes a highly subjectified arena? While it is true that some artful innovation created a boon for academic consultants to re-educate the educators, historical parallels can be observed that become a blind spot to those who have discarded such "necrophilious knowledge", and are likely to appear more wasteful of traditional ways of recycling and modifying that ostentatious evangelists preaching to express [guilt](https://en.wikipedia.org/wiki/White_guilt) with vicarious narratives of oppression.
+
+Being For-Itself does not imply ignorance of oppression. The waiter works as a means, rather than in-itself. Inasmuch the system does not allow an equitable opportunity for all individuals, he cannot be compared to Eichmann's [Banality of Evil](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem#Banality_of_evil) for earning a wage, even owning property, for he must control his destiny inasmuch as he can promote a greater good. That so much pedagogy is programmed to discard knowledge is exothermic and contributes to global warming. One cannot support capitalism in a way that supports daily book burnings, only to advise students to download a revised ebook of _Pedagogy of the Oppressed_ saying that Oceania is now at War with Eastasia. _1984's [memory hole](https://en.wikipedia.org/wiki/Memory_hole) represents the collective manifestation of academia's incinerator's global greenhouse emissions.
+
