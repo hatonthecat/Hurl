@@ -119,7 +119,7 @@ For consciousness to be able to imagine, it must be able to escape from the worl
 
 _"We cannot neatly sum up a public intellectual and man of letters, like Sartre, to conclude. We do think, however, that it is arguable, with the benefit of hindsight, that some of Sartre’s interventions are prescient rather than outmoded remnants of the nineteenth century (à la Foucault). They certainly presage issues that are in the foreground today, concerning class, race, and gender. That doesn’t mean that Sartre got it all correct, of course, whatever that might mean in regard to the complex realities of socio-political life. Indeed, if one is to take a stand on so many of the major socio-political issues of one’s time, as Sartre did, it is inevitable that history will not look kindly on them all. Sartre’s life and writings hence present a complex and difficult interpretive task, but they remain a powerful provocation for thought and action today."__
 
-Situationism's foundation is built on imagination.
+Situationism's foundation is built on imagination, or rather, [invention](https://digitalcommons.molloy.edu/cgi/viewcontent.cgi?article=1003&context=phil_fac).
 
 
 A Hybrid Approach
