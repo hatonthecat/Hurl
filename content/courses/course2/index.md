@@ -217,7 +217,7 @@ Examining the value of absurdist existentialism is a way of appraising declining
 Absurdism as Science
 --
 
-Sartre, who worked as a meterologist when drafted in WWII, made observations about the direction a balloon made. When watching cinema, he observed that the scripted lines differed from that of people on the streets In the 1999 BBC Documentary, The Road to Freedom, Sartre's contemporaries are interviewed and describe him as the embodiment of free thought: https://www.youtube.com/watch?v=q3ttT1eZO6s
+Sartre, who worked as a meterologist after being drafted in WWII, made observations about the direction a balloon made. When watching cinema, he observed that the scripted lines differed from that of people on the streets. In the 1999 BBC Documentary, _The Road to Freedom_, Sartre's contemporaries are interviewed and describe him as the embodiment of free thought: https://www.youtube.com/watch?v=q3ttT1eZO6s
 
 The philosophical and humanists that view irrationality as an illogical aspect of human nature would appear to be the same as rounding irrational numbers to a fixed decimal point. In the irrationally fused approach, the natural world is irrational inasmuch pi's decimals are never ending.
 
