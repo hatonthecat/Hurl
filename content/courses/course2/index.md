@@ -450,3 +450,13 @@ https://baudrillardstudies.ubishops.ca/baudrillard-and-existentialism-taking-the
 ISSN: 1705-6411
 Volume 13, Number 2 (July 2016)
 Author: Alan N. Shapiro"
+
+The only connection that can be made _so far_ is that Jarry inflienced both Baudrillard and Theater of the Absurd, which Sartre was an early founder.
+
+https://en.wikipedia.org/wiki/Jean_Baudrillard#Biography
+"Baudrillard was born in Reims, northeastern France, on 27 July 1929. His grandparents were farm workers and his father a gendarme. During high school (at the Lycée at Reims), he became aware of 'pataphysics via philosophy professor Emmanuel Peillet, which is said to be crucial for understanding Baudrillard's later thought.[25]: 317"
+
+"Alfred Jarry (French: [al.fʁɛd ʒa.ʁi]; 8 September 1873 – 1 November 1907) was a French symbolist writer who is best known for his play Ubu Roi (1896), often cited as a forerunner of the Dada, Surrealist, and Futurist movements of the 1920s and 1930s and later the Theatre of the absurd In the 1950s and 1960s [1][2] He also coined the term and philosophical concept of 'pataphysics.[3]"
+
+While it's a stretch to suggest that Baudrillard, picked up the baton that Sartre left behind, if even such an idea has been suggested before, my belief is that a radically different era had to be interpreted impartially, and, Baudrillard in many ways, while not necessarily liminal to absurdity/existentialism/Modernism, was still a classical scholar in the same definition/light. Thus, the era that one studies need not be defined by influences in disparate eras that have no continuity to an adjacent era, but by orthogonal definitions of scholarship. 
+
