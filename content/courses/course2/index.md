@@ -435,3 +435,7 @@ An example of postmodernist cinema might be the modern adaptation of the 1995 mo
 '[Pataphysics](https://en.wikipedia.org/wiki/%27Pataphysics) (French: 'pataphysique) is a "philosophy" of science invented by French writer Alfred Jarry (1873–1907)[2] intended to be a parody of science.[3] Difficult to be simply defined or pinned down, it has been described as the "science of imaginary solutions".[4]
 
 Anachronistic works can appear to allow for pataphysical solutions, even ones that do not require them. Absurdism is a form of imaginary or inventive solutionism, or Rebaudrillization, in a Re-postmodern era.
+
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/0e7f635a-2fd5-4bb5-aa97-955a539a7ea6)
+
+Sartre died in 1980. _Simulacra and Simulation_ was written in 1981. Hyperreality began on or around 1968. 
