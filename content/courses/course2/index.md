@@ -439,3 +439,14 @@ Anachronistic works can appear to allow for pataphysical solutions, even ones th
 ![image](https://github.com/hatonthecat/Hurl/assets/76194453/0e7f635a-2fd5-4bb5-aa97-955a539a7ea6)
 
 Sartre died in 1980. _Simulacra and Simulation_ was written in 1981. Hyperreality first opened in Anaheim, California in 1955. Hyperreality went fully online on in May, 1968. 
+
+There is no indication that Baudrillard and Sartre were connected (although it is likely at least one was aware of the other). I have just begun this examination, and while they researched adjacent eras, appear to have similarities, even if they had diametrically opposed views, when seen from the lens of science- displacement in physics, specifically, which states that all change in delta is positive. The frame of reference, according to post-modernism, cannot be proven or universalized, and therefore, all perspective is, relative in relation to another, and cannot be explained by equating positive with negative if also claiming positive is not negative. (i.e. if A=B, B cannot _not_ equal A). 
+
+_"III. Subjects Without Others
+How does the theory of objects chez Baudrillard connect to the theory of simulation? I believe that ‘taking the side of objects’ is the crucial way out of the culture of simulation. Simulation is about the rule of models and codes, the way that models and codes precede, determine, instantiate and hold sway over our everyday life existence. Simulation is a sort of reversal of the Sartrean existentialist formula “existence precedes essence.” In the society of simulation: ‘essence precedes existence’. Additionally, Baudrillard often talks about the ‘subjective’ side of simulation – the fact that we are living in a narcissistic culture of ‘subjects without others’ – leading to the disappearance or parodying of the human subject. This solipsistic self-referencing system of ‘otherless’ subjects obsessed with technologically and semiotically manufacturing their own clones is what in effect enables simulation."_
+
+https://baudrillardstudies.ubishops.ca/baudrillard-and-existentialism-taking-the-side-of-objects/
+"Baudrillard and Existentialism: Taking the Side of Objects
+ISSN: 1705-6411
+Volume 13, Number 2 (July 2016)
+Author: Alan N. Shapiro"
