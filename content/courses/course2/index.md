@@ -350,6 +350,25 @@ _"Augusto Boal – The Legislative Theater was the need we felt, before I became
 
 Theater can cover politics, but it doesn't need to become politics. In the same sense, Julian Benda believed academia should be separate from politics. https://newcriterion.com/issues/1992/12/the-treason-of-the-intellectuals-ldquothe-undoing-of-thoughtrdquo There is no shortage of politicians. The actors on stage represent characters in society. Academics represent subjects, but they too do not need to embody the ideology to teach a concept.
 
+oal continues, _"In Argentina, I started to develop forms of theater, such as, for example, Invisible Theater, in which we go out into the street and perform a scene, and don't reveal that it is theater, so that everyone can participate. Then, in Peru, I started with Teatro Fórum, where we present the problem, the spectator enters the scene and shows alternatives."_
+
+By that logic, anyone could be an actor, But I think it's fine when someone says they're acting. It's better when there is a disclosure. Guerilla theater was only necessary during their dictatorship. In the United States, there is no dictatorship. 
+https://www.wetheblacksheep.com/p/what-happens-when-activists-take (A crowd that mistakes a show by a cop with oppression).
+https://www.wetheblacksheep.com/p/social-justice-activists-are-dismantling 
+
+_"BF – Why are you and Teatro do Oprimido excluded from the mainstream media?_
+
+_Boal – I think that all those artists who do something that is extremely useful for the population and everything, but that don't have a hook, like for example a well-known television actor, or some other event that individualizes people, these are excluded . It's not the Theater of the Oppressed, nor me. It's any artist who doesn't do it like this. It's excluded. In general, the media is only interested in individuality. And what we are trying to do is make the Theater of the Oppressed used throughout the social fabric. It's not seeing, for example, where the talents in the Maré favela are. We don't want to turn them into television actors, that's not it. Now we are launching a new project, which is Aesthetics of the Oppressed. Our objective is not to discover who is the best poet in Jacarepaguá, or who is the best painter in that place._
+
+_BF – So, what you want is not the final product, but the elaboration process._
+
+_Boal – Yes, the aesthetic process is more important than the artistic product. Now, why do we want this, it's not a whim, is it? We are living in the Third World War, of course, and we are losing. And this world war that we are losing is the information war. Turn on the television today and you will only see American films, and only violent ones. You notice whether the film is American or not, Hollywood-inspired or not, whether every five minutes there is a punch, a gunshot, or an explosion. That's American. European film rarely has this."_
+
+True, European films do not show this every 5 minutes- such as the French New Wave, but his thinkings do not represent a particularly progressive ideal:
+
+_"Influences_
+
+_Most of Augusto Boal's techniques were created after he realized the limitations of didactic, politically motivated theatre in the poor areas where he worked. He found that his attempts to inspire the people living in poor or "slum" areas to rise up against racial and class inequality were inhibited by his own racial and class background, since he was white and comparatively financially comfortable, as well as his and his colleagues' inhibitions to perform violence themselves. His new techniques allowed the idea of rebellion and the impetus for change to come from within the target group. Much of his early work and teaching was inspired by Marxist philosophy, *although* much of his work now falls within the boundaries of a center-left ideology."_ (Emphasis added)
 
 A main element of Theatre of the Oppressed is "[Spect-actor](https://en.wikipedia.org/wiki/Augusto_Boal#Exile)https://en.wikipedia.org/wiki/Augusto_Boal#Exile"
 
