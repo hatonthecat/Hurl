@@ -340,6 +340,17 @@ _"Boal's teachings were controversial, and as a cultural activist he was seen as
 
 _"Boal was also known to quote William Shakespeare's Hamlet, in which Hamlet argues that theatre is like a mirror that reflects our virtues and defects equally. Although Boal found this quote beautiful, he liked to think of theatre as a mirror in which one can reach in to change reality and to transform it.[15]"_
 
+Notice how the wording uses "Although." According to the source:
+
+"Brasil de Fato – What is the Legislative Theater?
+
+https://josekuller.wordpress.com/38-entrevista-com-augusto-boal/ (via Google Translate)
+
+_"Augusto Boal – The Legislative Theater was the need we felt, before I became a councilor, to transform into law what was a desire expressed by the population of Teatro Fórum. In this, you present the problem, not the possible solutions. For example, Shakespeare has a play, Hamlet, in which he says that the text should be a mirror, and this mirror should reflect reality as it is: with our vices and our virtues. That's his opinion, the theater is a mirror. I think it's cute and all. But at the same time, I think we don't just have to think about understanding reality. You have to try to transform reality. This must always be capable of transformation and will always require transformation. So, I would like the theater to be a magic mirror, which you penetrate and, not liking the image it reflects, you go inside and modify that image. We felt like we were having really good ideas and all that, but in reality we needed some law. Even if we know that the laws are not respected in Brazil, it is better to have them on our side than against us. So we started thinking about the idea of ​​turning it into law, joining the City Council. And I was a candidate, I was elected, for four years."_
+
+Theater can cover politics, but it doesn't need to become politics. In the same sense, Julian Benda believed academia should be separate from politics. https://newcriterion.com/issues/1992/12/the-treason-of-the-intellectuals-ldquothe-undoing-of-thoughtrdquo There is no shortage of politicians. The actors on stage represent characters in society. Academics represent subjects, but they too do not need to embody the ideology to teach a concept.
+
+
 A main element of Theatre of the Oppressed is "[Spect-actor](https://en.wikipedia.org/wiki/Augusto_Boal#Exile)https://en.wikipedia.org/wiki/Augusto_Boal#Exile"
 
 "Boal's method (which has been implemented in various communities around the world) seeks to transform audiences into active participants in the theatrical experience. Boal argues that traditional theatre is oppressive since spectators usually do not get a chance to express themselves and that a collaboration between both parties, in contrast, allows spectators to perform actions that are socially liberating. The method, as Boal liked to explain, seeks to transform spectators into "spect-actors."[10]"
