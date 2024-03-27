@@ -350,7 +350,7 @@ _"Augusto Boal – The Legislative Theater was the need we felt, before I became
 
 Theater can cover politics, but it doesn't need to become politics. In the same sense, Julian Benda believed academia should be separate from politics. https://newcriterion.com/issues/1992/12/the-treason-of-the-intellectuals-ldquothe-undoing-of-thoughtrdquo There is no shortage of politicians. The actors on stage represent characters in society. Academics represent subjects, but they too do not need to embody the ideology to teach a concept.
 
-oal continues, _"In Argentina, I started to develop forms of theater, such as, for example, Invisible Theater, in which we go out into the street and perform a scene, and don't reveal that it is theater, so that everyone can participate. Then, in Peru, I started with Teatro Fórum, where we present the problem, the spectator enters the scene and shows alternatives."_
+Boal continues, _"In Argentina, I started to develop forms of theater, such as, for example, Invisible Theater, in which we go out into the street and perform a scene, and don't reveal that it is theater, so that everyone can participate. Then, in Peru, I started with Teatro Fórum, where we present the problem, the spectator enters the scene and shows alternatives."_
 
 By that logic, anyone could be an actor, But I think it's fine when someone says they're acting. It's better when there is a disclosure. Guerilla theater was only necessary during their dictatorship. In the United States, there is no dictatorship. 
 https://www.wetheblacksheep.com/p/what-happens-when-activists-take (A crowd that mistakes a show by a cop with oppression).
@@ -372,14 +372,14 @@ _Most of Augusto Boal's techniques were created after he realized the limitation
 
 A main element of Theatre of the Oppressed is "[Spect-actor](https://en.wikipedia.org/wiki/Augusto_Boal#Exile)https://en.wikipedia.org/wiki/Augusto_Boal#Exile"
 
-"Boal's method (which has been implemented in various communities around the world) seeks to transform audiences into active participants in the theatrical experience. Boal argues that traditional theatre is oppressive since spectators usually do not get a chance to express themselves and that a collaboration between both parties, in contrast, allows spectators to perform actions that are socially liberating. The method, as Boal liked to explain, seeks to transform spectators into "spect-actors."[10]"
+_"Boal's method (which has been implemented in various communities around the world) seeks to transform audiences into active participants in the theatrical experience. Boal argues that traditional theatre is oppressive since spectators usually do not get a chance to express themselves and that a collaboration between both parties, in contrast, allows spectators to perform actions that are socially liberating. The method, as Boal liked to explain, seeks to transform spectators into "spect-actors."[10]"_
 
-"Boal's work in Peru with the ALFIN project, a movement which sought to use a range of languages including "artistic languages" to eradicate illiteracy, developed his ideas and methodology away from the agit-prop of his Brazilian Arena Theatre days and sought to engage theatre as a pedagogical tool. Crucial to this time was Boal's attempts to break down the divisions between spectator and actor. It is around this time that invented the term "spect-actor", a term that he saw as establishing the frameworks within which he wished to work.[2] He saw that the passivity of the spectator could be broken down by the following steps by which the spectator becomes the spect-actor:
+_"Boal's work in Peru with the ALFIN project, a movement which sought to use a range of languages including "artistic languages" to eradicate illiteracy, developed his ideas and methodology away from the agit-prop of his Brazilian Arena Theatre days and sought to engage theatre as a pedagogical tool. Crucial to this time was Boal's attempts to break down the divisions between spectator and actor. It is around this time that invented the term "spect-actor", a term that he saw as establishing the frameworks within which he wished to work.[2] He saw that the passivity of the spectator could be broken down by the following steps by which the spectator becomes the spect-actor:_
 
-Knowing the body (by body he means both the individual "body" and the collective "body" in a Marxist sense)
+_Knowing the body (by body he means both the individual "body" and the collective "body" in a Marxist sense)
 Making the body expressive
 Using theatre as a language
-Using theatre as discourse"
+Using theatre as discourse"_
 
 In other words, he wants to replace the Greek Tragedy storytelling medium with a participative activity, because not everyone who attends is expected to enjoy their experience, and that is oppressive.
 
