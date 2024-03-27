@@ -438,4 +438,4 @@ Anachronistic works can appear to allow for pataphysical solutions, even ones th
 
 ![image](https://github.com/hatonthecat/Hurl/assets/76194453/0e7f635a-2fd5-4bb5-aa97-955a539a7ea6)
 
-Sartre died in 1980. _Simulacra and Simulation_ was written in 1981. Hyperreality began on or around 1968. 
+Sartre died in 1980. _Simulacra and Simulation_ was written in 1981. Hyperreality first opened in Anaheim, California in 1955. Hyperreality went fully online on in May, 1968. 
