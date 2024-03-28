@@ -434,6 +434,21 @@ An example of postmodernist cinema is the modern adaptation of the 1995 movie [R
 
 ![image](https://github.com/hatonthecat/Hurl/assets/76194453/6d2985ae-592c-4f74-82ae-96b57fc40735)
 
+"Paint it red", because a software may require a selection to run a program. (e.g When 0=undefined or when [refactoring](https://twitter.com/addyosmani/status/1568693483845877760?lang=en) [legacy code](https://www.youtube.com/watch?v=ELLdITfDo1E)) 
+
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/b4e7ebab-65eb-4fa8-8667-25cdebe20796)
+
+
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/4f8a3ec3-c14f-4fcb-88c6-107c2cc91880)
+
+
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/2ce731b4-b72a-4f2b-9d8c-60caddd15aa9)
+
+
+
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/1f324f9f-d53b-4c74-9b48-49620f65d69b)
+
+
 
 '[Pataphysics](https://en.wikipedia.org/wiki/%27Pataphysics) (French: 'pataphysique) is a "philosophy" of science invented by French writer Alfred Jarry (1873–1907)[2] intended to be a parody of science.[3] Difficult to be simply defined or pinned down, it has been described as the "science of imaginary solutions".[4]
 
