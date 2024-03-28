@@ -448,16 +448,15 @@ There is no indication that Baudrillard and Sartre were connected (although it i
 _"III. Subjects Without Others
 How does the theory of objects chez Baudrillard connect to the theory of simulation? I believe that ‘taking the side of objects’ is the crucial way out of the culture of simulation. Simulation is about the rule of models and codes, the way that models and codes precede, determine, instantiate and hold sway over our everyday life existence. Simulation is a sort of reversal of the Sartrean existentialist formula “existence precedes essence.” In the society of simulation: ‘essence precedes existence’. Additionally, Baudrillard often talks about the ‘subjective’ side of simulation – the fact that we are living in a narcissistic culture of ‘subjects without others’ – leading to the disappearance or parodying of the human subject. This solipsistic self-referencing system of ‘otherless’ subjects obsessed with technologically and semiotically manufacturing their own clones is what in effect enables simulation."_
 
-https://baudrillardstudies.ubishops.ca/baudrillard-and-existentialism-taking-the-side-of-objects/
-"Baudrillard and Existentialism: Taking the Side of Objects
+
+"Baudrillard and [Existentialism](https://baudrillardstudies.ubishops.ca/baudrillard-and-existentialism-taking-the-side-of-objects/): Taking the Side of Objects
 ISSN: 1705-6411
 Volume 13, Number 2 (July 2016)
 Author: Alan N. Shapiro"
 
-The only connection that can be made _so far_ is that Jarry inflienced both Baudrillard and Theater of the Absurd, which Sartre was an early founder.
+The only connection that can be made _so far_ is that Jarry influenced both Baudrillard and Theater of the Absurd, which Sartre was an early founder. Baudrillard described post-modernism without living inside it. Perhaps the framework of scholarship was retained, in the same way a [CD Player plays CD](https://www.youtube.com/watch?app=desktop&v=M2ta7bc0gZI)s, in a vaguely similar concept (also uses a rotating disc to ease human interpretation) of playing vinyl records, but technically distinct interface (e.g. a record needle instead of an optical laser), which also evolved from [phonographs](https://youtu.be/XCumH8LRo1A?t=90) and other musical recording devices in the 1800s. 
 
-https://en.wikipedia.org/wiki/Jean_Baudrillard#Biography
-"Baudrillard was born in Reims, northeastern France, on 27 July 1929. His grandparents were farm workers and his father a gendarme. During high school (at the Lycée at Reims), he became aware of 'pataphysics via philosophy professor Emmanuel Peillet, which is said to be crucial for understanding Baudrillard's later thought.[25]: 317"
+"[Baudrillard](https://en.wikipedia.org/wiki/Jean_Baudrillard#Biography) was born in Reims, northeastern France, on 27 July 1929. His grandparents were farm workers and his father a gendarme. During high school (at the Lycée at Reims), he became aware of 'pataphysics via philosophy professor Emmanuel Peillet, which is said to be crucial for understanding Baudrillard's later thought.[25]: 317"
 
 "Alfred Jarry (French: [al.fʁɛd ʒa.ʁi]; 8 September 1873 – 1 November 1907) was a French symbolist writer who is best known for his play Ubu Roi (1896), often cited as a forerunner of the Dada, Surrealist, and Futurist movements of the 1920s and 1930s and later the Theatre of the absurd In the 1950s and 1960s [1][2] He also coined the term and philosophical concept of 'pataphysics.[3]"
 
