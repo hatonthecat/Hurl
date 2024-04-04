@@ -259,9 +259,13 @@ https://en.wikipedia.org/wiki/Rhizomatic_learning
 
 I don’t see rhizomes as possessing a similar capacity (to networks) to generate insight into learning, innovation, and complexity ... Rhizomes then, are effective for describing the structure and form of knowledge and learning ... [h]owever, beyond the value of describing the form of curriculum as decentralized, adaptive, and organic, I’m unsure what rhizomes contribute to knowledge and learning.[16]"
 
-_Three Ecologies_ [Analysis](https://field-journal.com/issue-23/three-ecologies-conversations-with-newton-harrison#:~:text=between%20the%20three%20ecological%20registers,Bateson%2FGuattari%20line%20of%20thought.)
+_Three Ecologies_ [Analysis:](https://field-journal.com/issue-23/three-ecologies-conversations-with-newton-harrison#:~:text=between%20the%20three%20ecological%20registers,Bateson%2FGuattari%20line%20of%20thought.)
 
 "And according to Newton, Guattari’s use of the triad (mental, social and environmental ecology) as an analytic structure is almost as reductive of complexity as that of a binary opposition."
+
+“I am familiar with Bateson’s steps to an ecology of mind and understand why Guattari would claim there are three ecologies. [Actually, Bateson came and visited my crab farm in 1973 as his most effective student, the Freudian anthropologist Robert Levi, was one of my best friends and brought Bateson to see the work. Bateson didn’t like it, looked at it for 30 seconds, walked around the tanks, spoke to no one and left. So, I ended up not liking him either, Bateson or no Bateson.…I am an ecologist. I assert that there is either one ecology or an infinity of microecologies that combine to make this one ecology.” [6]
+
+So, what Bateson does, and what Guatarri does after him, appropriates the word ecology and applies it to things that are not living and therefore not ecological. Now a multitude have appropriated the term. I am not entirely sure what to do. Maybe stop using the term ecology and start using the term web of life."
 
 Pedadogy of the Oppressed or Pedagogy for the Oppressed?
 --
