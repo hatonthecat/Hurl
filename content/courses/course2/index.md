@@ -248,9 +248,24 @@ A similar contrast can be observed in Ecopedagogy:
 
 Therefore, cross-examining Ilyich-Freire's ideological contrasts can be analogized to that of Husserl's for-itself and [Heidegger](https://en.wikipedia.org/wiki/Being_in_itself#Being-in-itself_for_Heidegger)'s [Dasain](https://en.wikipedia.org/wiki/Dasein#Karl_Jaspers'_Dasein_and_Existenz) (being in itself), using one Sartrean lazy eye, the irrational lens (being-for-itself), and one normal eye, the rational lens (being in-itself), one can see view the waiter's need to serve the position to an ends, (being for itself), but does not have a pre-defined definition of what being in-itself must be. The essence of his role is determined wholly by society and their expectations.
 
+Rhizomatic Learning: Fundamental Rhizomatica or Situational Rhizomatica?
+--
+
+https://en.wikipedia.org/wiki/A_Thousand_Plateaus
+
+https://en.wikipedia.org/wiki/Rhizomatic_learning
+
+"George Siemens, one of the inventors of massive open online courses, has questioned the usefulness of the rhizomatic metaphor when compared to traditional network analysis:
+
+I don’t see rhizomes as possessing a similar capacity (to networks) to generate insight into learning, innovation, and complexity ... Rhizomes then, are effective for describing the structure and form of knowledge and learning ... [h]owever, beyond the value of describing the form of curriculum as decentralized, adaptive, and organic, I’m unsure what rhizomes contribute to knowledge and learning.[16]"
+
+_Three Ecologies_ [Analysis](https://field-journal.com/issue-23/three-ecologies-conversations-with-newton-harrison#:~:text=between%20the%20three%20ecological%20registers,Bateson%2FGuattari%20line%20of%20thought.)
+
+"And according to Newton, Guattari’s use of the triad (mental, social and environmental ecology) as an analytic structure is almost as reductive of complexity as that of a binary opposition."
+
 Pedadogy of the Oppressed or Pedagogy for the Oppressed?
 --
-Applying the Sartrean analysis to the broader role of Pedagogy in influencing Global North instruction, alternative definitions have been used: 
+Applying the Sartrean analysis to the broader role of Critical Pedagogy in influencing Global North instruction, alternative definitions have been used: 
 
 "10-2003 Pedagogy for the Economically Privileged: “Tuning
 In” to the Privileged Learner
@@ -297,6 +312,13 @@ students are often surprised by assessment systems and evaluation criteria that 
 for themselves. Advocates for liberal education often find they must convince potential students,
 their families, legislators, and society at large of the value of such an agency-laden education." 
 Frueh, 2020
+
+""Despite strict prescriptions about allowing understanding of oppression to come up from the oppressed themselves, Freire already
+knows the conclusions to which they should come. His anecdotes about oppressed being liberated
+are about people articulating ideas that agree with Freire’s own interpretation of the system. This
+same level of certainty about class oppression is evident in the works of Antonio Gramsci, who also
+claimed to have a firm understanding of the causes and dynamics of oppression. Gramsci, however,
+has more faith in the liberating power of empowering education for all." Freuh, 2020
 
 "In the book, Freire calls traditional pedagogy the "banking model of education" because it treats the student as an empty vessel to be filled with knowledge, like a piggy bank. He argues that pedagogy should instead treat the learner as a co-creator of knowledge.[1]"
 
