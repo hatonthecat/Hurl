@@ -285,7 +285,10 @@ Jamie Frueh, Ph.D." January 2020 https://preprints.apsanet.org/engage/api-gatewa
 
 Lincoln's Gettysburg Address: 
 https://en.wikipedia.org/wiki/Gettysburg_Address
-"[...] that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom[7]—and that government of the people, by the people, for the people, shall not perish from the earth.[8][9]"
+"[...] that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom[7]—and that government of the people, by the people, for the people, shall not perish from the earth.[8][9]" (also see this 1889 [comic:](https://upload.wikimedia.org/wikipedia/commons/e/e5/The_Bosses_of_the_Senate_by_Joseph_Keppler.jpg))
+
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/1522d2e3-f6ee-4f89-8bbd-3729d44aef61)
+
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7307473/
 Harpreet Singh Grover "doi: 10.4103/jisp.jisp_149_20 J Indian Soc Periodontol. 2020 May-Jun; 24(3): 190. 
