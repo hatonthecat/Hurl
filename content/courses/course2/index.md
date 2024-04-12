@@ -6,7 +6,7 @@ author: ["Prof. Rebaudrillard"]
 description: "Introduction to Sartre" 
 summary: "A Historical Analysis of Jean-Paul Sartre" 
 cover:
-    image: "[[sartre.png](https://github.com/hatonthecat/Hurl/blob/main/content/courses/course2/sartre.PNG)]"
+    image: "[https://github.com/hatonthecat/Hurl/blob/main/content/courses/course2/sartre.PNG]"
     alt: "Figure caption"
     relative: false
 editPost:
