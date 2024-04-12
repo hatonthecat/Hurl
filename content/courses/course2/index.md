@@ -492,7 +492,7 @@ An example of postmodernist cinema is the modern adaptation of the 1995 movie [R
 
 '[Pataphysics](https://en.wikipedia.org/wiki/%27Pataphysics) (French: 'pataphysique) is a "philosophy" of science invented by French writer Alfred Jarry (1873–1907)[2] intended to be a parody of science.[3] Difficult to be simply defined or pinned down, it has been described as the "science of imaginary solutions".[4]
 
-Anachronistic works can appear to allow for pataphysical solutions, even ones that do not require them. Absurdism is a form of imaginary or inventive solutionism, or [Rebaudrillization](https://github.com/hatonthecat/Hurl/blob/main/content/courses/course2/pata.png), in a Re-postmodern era.
+Anachronistic works can appear to allow for pataphysical solutions, even ones that do not require them. Absurdism is a form of imaginary or inventive solutionism, or [Rebaudrillization](https://github.com/hatonthecat/Hurl/blob/main/content/courses/course2/tpata.png), in a Re-postmodern era.
 
 [![image](https://github.com/hatonthecat/Hurl/assets/76194453/0e7f635a-2fd5-4bb5-aa97-955a539a7ea6)
 ](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland#/media/File:PlayingCards_Rosebush.jpg)
