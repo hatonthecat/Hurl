@@ -1,5 +1,5 @@
 ---
-title: "PHIL 250: Introduction to Sartre" 
+title: "PHIL 301: Introduction to Sartre" 
 date: 2021-06-16
 tags: ["Existentialism","Absurdism","Political Philosophies"]
 author: ["Prof. Rebaudrillard"]
