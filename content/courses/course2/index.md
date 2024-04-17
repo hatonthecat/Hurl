@@ -318,7 +318,7 @@ deliberation, reserving it for particular types of situations and particular peo
 students are often surprised by assessment systems and evaluation criteria that demand they think
 for themselves. Advocates for liberal education often find they must convince potential students,
 their families, legislators, and society at large of the value of such an agency-laden education." 
-Frueh, 2020
+Frueh, 2020***
 
 ""Despite strict prescriptions about allowing understanding of oppression to come up from the oppressed themselves, Freire already
 knows the conclusions to which they should come. His anecdotes about oppressed being liberated
@@ -516,4 +516,29 @@ The only connection that can be made _so far_ is that Jarry influenced both Baud
 "Alfred Jarry (French: [al.fʁɛd ʒa.ʁi]; 8 September 1873 – 1 November 1907) was a French symbolist writer who is best known for his play Ubu Roi (1896), often cited as a forerunner of the Dada, Surrealist, and Futurist movements of the 1920s and 1930s and later the Theatre of the absurd In the 1950s and 1960s [1][2] He also coined the term and philosophical concept of 'pataphysics.[3]"
 
 While it's a stretch to suggest that [Baudrillard](https://uh.edu/~cfreelan/courses/1361/BaudrillardQuotes.html) picked up the baton that Sartre left behind, if even such an idea has been suggested before, my belief is that a radically different era (post-modernism) had to be interpreted impartially, and, Baudrillard in many ways, while not necessarily liminal to absurdity/existentialism/Modernism, was still a classical scholar in the same definition/light. Thus, the era that one studies need not be defined by influences in disparate or similar eras that have continuity to an adjacent era, but by orthogonal definitions of classical scholarship. 
+
+*** "Individuals who deliberate, however, also produce short-term inefficiencies and resistances
+to existing systems. From the perspective of those with power, goals are usually met most efficiently
+if individuals reflexively follow established rules and patterns. So the bulk of the American
+educational system was designed around memorization and repetition.
+Education has been reduced to a subsector of the economy, designed to create cybercitizens
+within a teledemocracy of fast-moving images, representations, and lifestyle choices. … The
+new hidden curriculum, or “pedagogical unsaid,” is the attempt to de-form knowledge into a
+discreet and decontextualized set of technical skills packaged to serve big business interest,
+cheap labor, and ideological conformity. (McLaren 2000: 16)"
+
+The term "short-term inefficiencies" has broad interpretability. In a position of instruction (e.g. a class of 10-300), deliberation has limited opportunities for dialectic. The Substack article by Erik Hoel, suggests, that traditionally, tutoring allowed a higher focus on individual learning, but this is a historical acknowledgement of [aristocratic tutoring](https://www.theintrinsicperspective.com/p/why-we-stopped-making-einsteins). Much of the post-truth era (both left and right), refuses to take a comprehensively historical perspective on this, and overlooks the important contrast of student:teacher [ratio](https://www.usnews.com/education/best-colleges/the-short-list-college/articles/16-colleges-with-the-lowest-student-faculty-ratios#:~:text=The%20average%20student%2Dto%2Dfaculty,5%3A1%20in%20fall%202022.&text=31%2C%202023-,Jan.,2023%2C%20at%2011%3A04%20a.m.&text=Students%20looking%20to%20learn%20in,college%20that%20enrolls%20fewer%20students.). It is no surprise that, last week, the Washington Post reported that Harvard and CalTech began requiring the SAT again: https://www.washingtonpost.com/education/2024/04/11/harvard-reinstates-sat-act-admissions-requirement/ 
+
+Hoel refers to the SAT as the IQ's "[cousin](https://www.theintrinsicperspective.com/p/iq-discourse-is-increasingly-unhinged)." Those who took English as a Second Language (ESL), or Speech, like me, (due to using my molar teeth to pronounce "s's", instead of my front teeth, because my native Italian parents did not know nor think important to nudge me towards or emphasize the proper American way to pronounce "s" as [Sir Hiss](https://www.youtube.com/watch?v=NoMuQMY5xog) did in Robin Hood (1973) at an early age.
+
+Diaspora On the defensive
+--
+
+Speech and ethnic background may appear to be irrelevant to half-precision point (FP16) scanning activists. There is at least one book on anthropologists visiting Italy and describing Italians as "natives" [before](https://escholarship.org/content/qt6b29j30j/qt6b29j30j.pdf): 
+
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/e524fb72-ce0e-4e86-8ca7-b730f39906a6)
+
+The term diaspora is, often correlated with the plural migration of a people, but there is not a word that emphasizes the singular emigration of an indidividual for highly specific reasons.
+
+It is an incongruity, perhaps, to refer to the unique emigration of an individual, who technically part of a cohort otherwise referred to as a "diaspora", as a singular diaspora. Sartre's homeland was and always was, France. Camus, on the other hand, was shaped as much by Algerian exile as was France in the larger hegemonic role France had in the final years of colonial France. The existential questions that Sartre raised from the 1939-44 era can be compared today, arguably, to the anthropocene era, and the [anxiety](https://www.amazon.com/Earthly-Engagements-Reading-Sartre-Holocene/dp/1793638683) that climate change, or at least climate policy/discourse elicits. The role of the diasporic in a post-Holocene era cannot be dismissed or downplayed as mutally exclusive.
 
