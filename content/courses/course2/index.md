@@ -542,13 +542,13 @@ The term diaspora is often correlated with the plural migration of a people, but
 
 Thus diaspora and emigre can refer to departure for political/religious reasons, but also economic. These hardships are not always weighed on the same level of reasons granted for contemporary [immigration](https://youtu.be/zJdqJu-6ZPo?feature=shared), because most refugees today are given preference due to religious political persecution, rather than economic (e.g. post-war [WWII](https://www.britannica.com/place/Italy/The-republic-of-Salo-the-Italian-Social-Republic-and-the-German-occupation) economy in war-destroyed, or Irish fleeing the Potato Famine, and "cheaper" labor)
 
-It is an incongruity, perhaps, to refer to the unique emigration of an individual, who technically part of a cohort otherwise referred to as a "diaspora", as a singular diaspora. Sartre's homeland was and always was, France. Camus, on the other hand, was shaped as much by Algerian exile as France was from the hegemonic wars of [WWII-era*](https://www.vice.com/en/article/kw7gnz/vive-le-tarnac-nine-407-v17n4) powers. The existential questions that Sartre raised from the 1939-44 era can be compared today, arguably, to the anthropocene era, and the [anxiety](https://www.amazon.com/Earthly-Engagements-Reading-Sartre-Holocene/dp/1793638683) that climate change, or at least climate policy/discourse elicits. The role of the diasporic in a post-Holocene era cannot be dismissed or downplayed as mutally exclusive.
+It is an incongruity, perhaps, to refer to the unique emigration of an individual, who technically part of a cohort otherwise referred to as a "diaspora", as a singular diaspora. Sartre's homeland was and always was, France. Camus, on the other hand, was shaped as much by Algerian exile as France was from the hegemonic wars of [WWII-era****](https://www.vice.com/en/article/kw7gnz/vive-le-tarnac-nine-407-v17n4) powers. The existential questions that Sartre raised from the 1939-44 era can be compared today, arguably, to the anthropocene era, and the [anxiety](https://www.amazon.com/Earthly-Engagements-Reading-Sartre-Holocene/dp/1793638683) that climate change, or at least climate policy/discourse elicits. The role of the diasporic in a post-Holocene era cannot be dismissed or downplayed as mutally exclusive.
 
-*A correction was found to this largely accurate article:
+****A correction was found to this largely accurate article:
 
 "In 1944, Guingouin and his maquis fought the German DAS REICH
 Panzer division and killed their general, Heinz Lammerding. This defeat delayed the Das Reich division’s arrival at Normandy and was instrumental in the Allied victory over Germany in June of ’44."
 
-https://en.wikipedia.org/wiki/Heinz_Lammerding  (27 August 1905 – 13 January 1971)"
+https://en.wikipedia.org/wiki/Heinz_Lammerding  (27 August 1905 – 13 January 1971)
 
 While the author was notified and was thankful for the correction, Vice magazine has since closed down and was unable to make corrections.
