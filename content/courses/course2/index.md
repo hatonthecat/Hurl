@@ -531,7 +531,7 @@ The term "short-term inefficiencies" has broad interpretability. In a position o
 
 Hoel refers to the SAT as the IQ's "[cousin](https://www.theintrinsicperspective.com/p/iq-discourse-is-increasingly-unhinged)." Those who took English as a Second Language (ESL), or Speech, like me, (due to using my molar teeth to pronounce "s's", instead of my front teeth, because my native Italian parents did not know nor think important to nudge me towards or emphasize the proper American way to pronounce "s" as [Sir Hiss](https://www.youtube.com/watch?v=NoMuQMY5xog) did in Robin Hood (1973) at an early age.
 
-Diaspora On the defensive
+Diaspora On the Defensive
 --
 
 Speech and ethnic background may appear to be irrelevant to half-precision point (FP16) scanning activists. There is at least one book on anthropologists visiting Italy and describing Italians as "natives" [before](https://escholarship.org/content/qt6b29j30j/qt6b29j30j.pdf): 
