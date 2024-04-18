@@ -551,4 +551,4 @@ Panzer division and killed their general, Heinz Lammerding. This defeat delayed 
 
 https://en.wikipedia.org/wiki/Heinz_Lammerding  (27 August 1905 – 13 January 1971)"
 
-While the author was notified and was thankful fod the correction, Vice magazine has since closed down and was unable to make corrections.
+While the author was notified and was thankful for the correction, Vice magazine has since closed down and was unable to make corrections.
