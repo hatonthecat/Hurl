@@ -363,6 +363,9 @@ What is the difference between art, instruction, and the prestige of expertise i
 
 Being For-Itself does not imply ignorance of oppression. The waiter works as a means, rather than in-itself. Inasmuch the system does not allow an equitable opportunity for all individuals, he cannot be compared to Eichmann's [Banality of Evil](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem#Banality_of_evil) for earning a wage, even owning property, for he must control his destiny inasmuch as he can promote a greater good. That so much pedagogy is programmed to discard knowledge is exothermic and contributes to global warming. One cannot support capitalism in a way that supports daily book burnings, only to advise students to download a revised ebook of _Pedagogy of the Oppressed_ saying that Oceania is now at War with Eastasia. _1984's_ [memory hole](https://en.wikipedia.org/wiki/Memory_hole) represents the collective manifestation of academia's incinerators' global greenhouse emissions.
 
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/64dc2dbc-89ec-44af-a448-e3da247f1ba5)
+
+https://www.youtube.com/watch?v=6QSaJji6kQ8
 Theatre of the Absurd accosts Theater of the Oppressed
 --
 Ionesco, [Beckett](https://www.newyorker.com/books/page-turner/a-man-and-a-woman-say-what-you-like-theyre-different-on-marguerite-duras), Adamov, Camus, and Sartre were the foremost existential and absurdist playwrights who rallied against fascism and Stalinism (and also daily struggles). Notable works are _Rhinoceros_, _Waiting for Godot_, _Professor Taranne_, _Caligula_, and _No Exit._
