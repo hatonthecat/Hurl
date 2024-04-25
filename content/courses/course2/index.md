@@ -325,7 +325,7 @@ knows the conclusions to which they should come. His anecdotes about oppressed b
 are about people articulating ideas that agree with Freire’s own interpretation of the system. This
 same level of certainty about class oppression is evident in the works of Antonio Gramsci, who also
 claimed to have a firm understanding of the causes and dynamics of oppression. Gramsci, however,
-has more faith in the liberating power of empowering education for all." Freuh, 2020
+has more faith in the liberating power of empowering education for all." Frueh, 2020
 
 "In the book, Freire calls traditional pedagogy the "banking model of education" because it treats the student as an empty vessel to be filled with knowledge, like a piggy bank. He argues that pedagogy should instead treat the learner as a co-creator of knowledge.[1]"
 
@@ -553,6 +553,6 @@ https://en.wikipedia.org/wiki/Heinz_Lammerding  (27 August 1905 – 13 January 1
 
 While the author was notified and was thankful for the correction, Vice magazine has since closed down and was unable to make corrections.
 
-***** _"This era excels in a certain situation of the grotesque that seems to escape it every time. The truth is that the plaintive, indignant tones of the news media are unable to stifle the burst of laughter that welcomes these headlines._
+[*****](https://www.vice.com/en/article/kw7gnz/vive-le-tarnac-nine-407-v17n4) _"This era excels in a certain situation of the grotesque that seems to escape it every time. The truth is that the plaintive, indignant tones of the news media are unable to stifle the burst of laughter that welcomes these headlines._
 
 _"A burst of laughter is the only appropriate response to all the serious “questions” posed by news analysts. To take the most banal: There is no “immigration question.” Who still grows up where they were born? Who lives where they grew up? Who works where they live? Who lives where their ancestors did? And to whom do the children of this era belong, to television or their parents? The truth is that we have been completely torn from any belonging, we are no longer from anywhere, and the result, in addition to a new disposition to tourism, is an undeniable suffering. Our history is one of colonizations, of migrations, of wars, of exiles, of the destruction of all roots. It’s the story of everything that has made us foreigners in this world, guests in our own family."_ -Ibid
