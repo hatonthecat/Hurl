@@ -366,6 +366,7 @@ Being For-Itself does not imply ignorance of oppression. The waiter works as a m
 ![image](https://github.com/hatonthecat/Hurl/assets/76194453/64dc2dbc-89ec-44af-a448-e3da247f1ba5)
 
 https://www.youtube.com/watch?v=6QSaJji6kQ8
+
 Theatre of the Absurd accosts Theater of the Oppressed
 --
 Ionesco, [Beckett](https://www.newyorker.com/books/page-turner/a-man-and-a-woman-say-what-you-like-theyre-different-on-marguerite-duras), Adamov, Camus, and Sartre were the foremost existential and absurdist playwrights who rallied against fascism and Stalinism (and also daily struggles). Notable works are _Rhinoceros_, _Waiting for Godot_, _Professor Taranne_, _Caligula_, and _No Exit._
