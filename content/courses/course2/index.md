@@ -41,7 +41,7 @@ https://jacobin.com/2023/05/jean-paul-sartre-existential-marxism-history-politic
 
 However, Sartre believes that on many other occasions when individuals exist in groups, the relations between them and others around them are alienated ones. They find themselves ensnared in “serial praxis,” in which the other is an obstacle rather than an aid to their freedom. Sartre gives another example of people standing in a bus queue: the presence of others further up the queue implicitly pits my freedom against that of others, as opposed to encouraging relations of reciprocity and solidarity between us."
 
-These writings reveal Sartre's conditional leanings away from Marxism and towards the indidividual philosophy in the abstract and the praxis of anarchism. 
+These writings reveal Sartre's [conditional](https://philpapers.org/archive/LANSAF-6.pdf) leanings away from Marxism and towards the indidividual philosophy in the abstract and the praxis of anarchism. 
 
 In my own interpretation, acting as the political scientist, his words examine individuals and groups as if they are chemicals in a beaker. Inert, non-bonding noble gases, represent the anarchist individual who does not readily undergo chemical bonding with other atoms (persons). In soluble chemistry, "a suspension is a heterogeneous mixture in which the solid particles do not dissolve, but get suspended throughout the bulk of the solvent, left floating" https://en.wikipedia.org/wiki/Suspension_(chemistry)
 
