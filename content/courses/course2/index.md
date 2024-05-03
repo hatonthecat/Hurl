@@ -29,7 +29,7 @@ Jean-Paul Sartre's influence on political philosophy shaped much of post-war Fra
 
 https://jacobin.com/2021/08/jean-paul-sartre-anti-imperialism-colonialism-france-politics
 
-https://theinterestingtimes.substack.com/p/in-defense-of-virtue-signaling (parallels of virtue signalling and bad faith)
+https://theinterestingtimes.substack.com/p/in-defense-of-virtue-signaling (parallels of virtue signalling and [bad faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)))
 
 "Here I am referring to the notion of authenticity which forms a central axis in the works of existentialists such as Jean-Paul Sartre or Albert Camus. From the existentialist perspective life’s ‘purpose’ is to live and express oneself authentically. Though I would hazard that most people bandying about the term virtue signaler are not conscientiously channeling the ideas of Sartre, I do think this notion of authenticity lies at the heart of such accusations."
 
