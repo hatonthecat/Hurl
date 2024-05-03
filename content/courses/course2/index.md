@@ -35,6 +35,12 @@ https://theinterestingtimes.substack.com/p/in-defense-of-virtue-signaling (paral
 
 https://www.thecollector.com/jean-paul-sartre-hell-is-other-people/ 
 
+An earlier pre-cursor to bad faith could be traced to John Galt (the Scottish writer, not the fictional _Atlas Shrugged_ character) in his 1821 _[Annals of the Parish](https://en.wikipedia.org/wiki/Annals_of_the_Parish#cite_note-FOOTNOTEGalt1821Chapters_XXXIV,_XXXV-3)_:
+
+"Micah Balwhidder, considered to be the finest character created by Galt, reveals himself in the fictional first-person account to have human failings including conceit and vanity, as well as a keen interest in how the economy prospers. The book provides a humorous and realistic account of a typical parish minister of the late 18th and early 19th century, the way of life in rural Scotland, and the social changes of the Industrial Revolution.[1] 
+
+..."In 1794 people of the parish favouring radical Jacobins emulating the reforms of the French Revolution become insolent and divided from the gentry, whose pride prevented them from showing any affability to these democrats. Concerned by this division, Balwhidder noted "a bruit and a sound about universal benevolence, philanthropy, utility, and all the other disguises with which an infidel philosophy appropriated to itself the charity, brotherly love, and welldoing inculcated by our holy religion". He preached to his congregation that he "thought they had more sense than to secede from Christianity to become Utilitarians; for that it would be a confession of ignorance of the faith they deserved, seeing that it was the main duty inculcated by our religion to do all in morals and manners to which the newfangled doctrine of utility pretended."[3]" ([Chapter 35](https://www.gutenberg.org/ebooks/1310))
+
 https://jacobin.com/2023/05/jean-paul-sartre-existential-marxism-history-political-philosophy: 
 
 "For Sartre, the practico-inert tends to imply the alienation of subjective freedom, whereas praxis is the moment at which agency — even agency that can lead to greater political emancipation or a socialist revolution — becomes possible. Any such agency begins at an individual level and can then extend to groups. Sartre gives the example of a spontaneously forming group in the streets of Paris at the time of the storming of the Bastille in 1789. This type of group, which Sartre calls the “group in fusion,” is a moment of unalienated, intersubjective solidarity.
