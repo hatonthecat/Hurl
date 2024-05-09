@@ -121,6 +121,14 @@ From Sadie Plant's [The Most Radical Gesture](https://monoskop.org/images/2/24/P
 
 "This position was reinforced by the Situationists’ conception of the ‘situation’ itself. ‘So far philosophers and artists have only interpreted situations’, they declared, paraphrasing Marx and taking a swipe at Sartre: ‘the point now is to transform them. Since man is the product of the situations he goes through, it is essential to create human situations. Since the individual is defined by his situation, he wants the power to create situations worthy of his desires.’43 Great importance had been attached to the way in which one is situated in the world by Sartre and those philosophers, including Heidegger and Kierkegaard, who exerted some influence on existentialist philosophy. For Sartre, ‘there is freedom only in a situation, and there is a situation only through freedom’.44" (p.20)
 
+Indeed, this [connection](https://en.wikipedia.org/wiki/Situation_(Sartre)#Guy_Debord,_Letterist_and_Situationist_International)/[analysis](https://github.com/hatonthecat/Hurl/blob/main/content/courses/course2/Sartre%20and%20the%20Situationist%20Connection.pdf) has been made before by two other writers: Peter Wollen in "Bitter Victory:[ The Art and Politics of the Situationist International](https://monoskop.org/images/8/80/Wollen_Peter_1989_Bitter_Victory_The_Art_and_Politics_of_the_Situationist_International.pdf)" (1989) and by Claire Gillman in ["Asger Jorn's Avant-Garde Archives: Guy Debord and the Situationist International](https://www.jstor.org/stable/778837)": 
+
+Sartre's concept of Situation was reprised by Guy Debord at least since the times of the Letterist International.[6][7][8] In January 1954, the Letterist International declared: "The new beauty will be that of THE SITUATION, that is to say, provisional and lived."[9][10]
+
+Claire Gilman called Sartre a "father figure" for the Situationist International, and wrote that "Sartre and his philosophy of the situation are fundamental to the SI's notion of everyday life authentically experienced".[11] The relationship between Sartre's philosophy of the situation and the Situationist International is clarified by Peter Wollen in his essay Bitter victory.[12] 
+
+
+
 In "The Ones Who Walk Away from Omelas," by Ursula K. Le Guin, the imprisonment of even a single disabled child cannot be considered a free society, because anarchy defines all individuals as free from oppression:
 
 "She explored alternative political structures in many stories, such as in the philosophical short story "The Ones Who Walk Away from Omelas" (1973) and the anarchist utopian novel The Dispossessed (1974)." https://en.wikipedia.org/wiki/Ursula_K._Le_Guin
