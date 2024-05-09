@@ -123,9 +123,9 @@ From Sadie Plant's [The Most Radical Gesture](https://monoskop.org/images/2/24/P
 
 Indeed, this [connection](https://en.wikipedia.org/wiki/Situation_(Sartre)#Guy_Debord,_Letterist_and_Situationist_International)/[analysis](https://github.com/hatonthecat/Hurl/blob/main/content/courses/course2/Sartre%20and%20the%20Situationist%20Connection.pdf) has been made before by two other writers: Peter Wollen in "Bitter Victory:[ The Art and Politics of the Situationist International](https://monoskop.org/images/8/80/Wollen_Peter_1989_Bitter_Victory_The_Art_and_Politics_of_the_Situationist_International.pdf)" (1989) and by Claire Gillman in ["Asger Jorn's Avant-Garde Archives: Guy Debord and the Situationist International](https://www.jstor.org/stable/778837)": 
 
-Sartre's concept of Situation was reprised by Guy Debord at least since the times of the Letterist International.[6][7][8] In January 1954, the Letterist International declared: "The new beauty will be that of THE SITUATION, that is to say, provisional and lived."[9][10]
+"Sartre's concept of Situation was reprised by Guy Debord at least since the times of the Letterist International.[6][7][8] In January 1954, the Letterist International declared: "The new beauty will be that of THE SITUATION, that is to say, provisional and lived."[9][10]
 
-Claire Gilman called Sartre a "father figure" for the Situationist International, and wrote that "Sartre and his philosophy of the situation are fundamental to the SI's notion of everyday life authentically experienced".[11] The relationship between Sartre's philosophy of the situation and the Situationist International is clarified by Peter Wollen in his essay Bitter victory.[12] 
+Claire Gilman called Sartre a "father figure" for the Situationist International, and wrote that "Sartre and his philosophy of the situation are fundamental to the SI's notion of everyday life authentically experienced".[11] The relationship between Sartre's philosophy of the situation and the Situationist International is clarified by Peter Wollen in his essay Bitter victory.[12]"
 
 
 
