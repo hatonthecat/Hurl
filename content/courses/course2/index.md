@@ -566,6 +566,11 @@ Thus diaspora and emigre can refer to departure for political/religious reasons,
 
 It is an incongruity, perhaps, to refer to the unique emigration of an individual, who technically part of a cohort otherwise referred to as a "diaspora", as a singular diaspora. Sartre's homeland was and always was, France. Camus, on the other hand, was shaped as much by Algerian exile as France was from the hegemonic wars of [WWII-era****](https://www.vice.com/en/article/kw7gnz/vive-le-tarnac-nine-407-v17n4) powers. The existential questions that Sartre raised from the 1939-44 era can be compared today, arguably, to the anthropocene era, and the [anxiety](https://www.amazon.com/Earthly-Engagements-Reading-Sartre-Holocene/dp/1793638683) that climate change, or at least climate policy/discourse elicits. The role of the diasporic***** in a [post-Holocene](https://github.com/hatonthecat/Post-scarcity/blob/main/README.md#diaspora) era cannot be dismissed or downplayed as mutally exclusive.
 
+Situationism Today
+--
+
+Situationism is present in everything, and is not restricted to political [theater](https://newsteve.substack.com/p/mimetic-inactivism). Although often, that is the case. Recreating protests of 1968 should not be done in vain. Comparisons should also not always be made. 
+
 ****A correction was found to this largely accurate article:
 
 "In 1944, Guingouin and his maquis fought the German DAS REICH
