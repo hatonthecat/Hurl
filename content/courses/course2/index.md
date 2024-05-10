@@ -127,7 +127,6 @@ Indeed, this [connection](https://en.wikipedia.org/wiki/Situation_(Sartre)#Guy_D
 
 Claire Gilman called Sartre a "father figure" for the Situationist International, and wrote that "Sartre and his philosophy of the situation are fundamental to the SI's notion of everyday life authentically experienced".[11] The relationship between Sartre's philosophy of the situation and the Situationist International is clarified by Peter Wollen in his essay Bitter victory.[12]"
 
-
 In "The Ones Who Walk Away from Omelas," by Ursula K. Le Guin, the imprisonment of even a single disabled child cannot be considered a free society, because anarchy defines all individuals as free from oppression:
 
 "She explored alternative political structures in many stories, such as in the philosophical short story "The Ones Who Walk Away from Omelas" (1973) and the anarchist utopian novel The Dispossessed (1974)." https://en.wikipedia.org/wiki/Ursula_K._Le_Guin
@@ -151,10 +150,42 @@ Situationism's foundation is built on imagination, or rather, [invention](https:
 )" ('art for art's sake') had been floating around the intellectual circles of Paris since the beginning of the 19th century, but it was Théophile Gautier (1811–1872) who first fully articulated its metaphysical meaning (as we now understand it) in the prefaces of his 1832 poetry volume Albertus, and 1835 novel, Mademoiselle de Maupin.[3]
 Gautier was not the first nor the only one to use that phrase: it appeared in the lectures and writings of Victor Cousin[1] and Benjamin Constant. In his essay "The Poetic Principle" (1850) Edgar Allan Poe argues:"
 
-By Nietzsche
+"By Nietzsche
+
 "Friedrich Nietzsche argued that there is 'no art for art's sake', the arts always expresses human values, communicate core beliefs:
 
-When the purpose of moral preaching and of improving man has been excluded from art, it still does not follow by any means that art is altogether purposeless, aimless, senseless—in short, l'art pour l'art, a worm chewing its own tail. "Rather no purpose at all than a moral purpose!"—that is the talk of mere passion. A psychologist, on the other hand, asks: what does all art do? does it not praise? glorify? choose? prefer? With all this it strengthens or weakens certain valuations. Is this merely a "moreover"? an accident? something in which the artist's instinct had no share? Or is it not the very presupposition of the artist's ability? Does his basic instinct aim at art, or rather at the sense of art, at life? at a desirability of life? Art is the great stimulus to life: how could one understand it as purposeless, as aimless, as l'art pour l'art?[9]"
+When the purpose of moral preaching and of improving man has been excluded from art, it still does not follow by any means that art is altogether purposeless, aimless, senseless—in short, l'art pour l'art, a worm chewing its own tail. "Rather no purpose at all than a moral purpose!"—that is the talk of mere passion. A psychologist, on the other hand, asks: what does all art do? does it not praise? glorify? choose? prefer? With all this it strengthens or weakens certain valuations. Is this merely a "moreover"? an accident? something in which the artist's instinct had no share? Or is it not the very presupposition of the artist's ability? Does his basic instinct aim at art, or rather at the sense of art, at life? at a desirability of life? Art is the great stimulus to life: how could one understand it as purposeless, as aimless, as l'art pour l'art?[9]
+
+By Marxists and socialists
+Marxists have argued that art should be politicised for the sake of transmitting the socialist message.[10]
+
+George Sand, who was not a Marxist but a socialist writer,[11][12] wrote in 1872 that L'art pour l'art was an empty phrase, an idle sentence. She asserted that artists had a "duty to find an adequate expression to convey it to as many souls as possible," ensuring that their works were accessible enough to be appreciated.[13]
+
+Senegalese president, head of the Socialist Party of Senegal, and co-founder of Negritude Leopold Sedar Senghor and anti-colonial Africanist writer Chinua Achebe have both criticised the slogan as being a limited and Eurocentric view on art and creation. Senghor argued that, in "black African aesthetics," art is "functional" and that in "black Africa, 'art for art's sake' does not exist."[14] Achebe is more scathing in his collection of essays and criticism entitled Morning Yet on Creation Day, in which he asserts that "art for the sake of art is just another piece of deodorised dog shit [sic]."[15]
+
+Walter Benjamin, one of the developers of Marxist hermeneutics,[16] discusses the slogan in his seminal 1936 essay "The Work of Art in the Age of Mechanical Reproduction". He first mentions it in regard to the reaction within the realm of traditional art to innovations in reproduction, in particular photography. He even terms the "L'art pour l'art" slogan as part of a "theology of art" in bracketing off social aspects. In the Epilogue to his essay, Benjamin discusses the links between fascism and art. His main example is that of Futurism and the thinking of its mentor Filippo Tommaso Marinetti. One of the slogans of the Futurists was "Fiat ars – pereat mundus" ('Let art be created, though the world perish'). Provocatively, Benjamin concludes that as long as fascism expects war "to supply the artistic gratification of a sense of perception that has been changed by technology," then this is the "consummation," the realization, of "L'art pour l'art."[17]"
+
+In Peter Wollen's analysis, he suggests that Debord essentially uses art as a political praxis:
+
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/bfdce5df-36ad-4abd-8fdf-3a65b823ef85) 
+
+(p.8/48 of the pdf) page 25 This would be in line with Walter Benjamin's interpretation.
+
+In Guy _Davenport's_ Every Force Evolves a Form, three chapters have stuck out to me ever since reading it 15 years ago:
+
+![image](https://github.com/hatonthecat/Hurl/assets/76194453/bad06e21-d7a8-4ca1-9afc-1dd341d4f7cc)
+
+Despite being only 171 pages, reading this book made me realize that every word of his sentences are written like a speed bump. They are intended to be read carefully, as if he requests each word or sentence cross-examined with every back alley of the [psychogeography](https://www.amazon.com/Geography-Imagination-Forty-Essays/dp/1567927777/) of the mind before continuing on to the next semantic structure. 
+
+It took me several months to read it, and I realize that the mental storage of ideas is no less practical than whatever chronological forms of logic there exist out there.
+
+The concepts I took away from those three chapter (not to overlook other ones, such as table manners and the height of sitting, and his wish to get a driver's license at a local DMV, being told that he should leave the country, only to quip- "I can't do that without an ID"), are that being a critic is as useful to art and scholarship as being a critic. However, the critic as artist is probably the most difficult and inaccessible. To start with The Artist as Critic, one could say that DeBord accomplished this Marxist Mission with visual [détournement ](https://en.wikipedia.org/wiki/D%C3%A9tournement) and Situationist theatre (streetside or otherwise). Dada too, but more overtly political after Debord's 1962 purge.
+
+Scholars as Critics have [existed](https://en.wikipedia.org/wiki/Diachrony_and_synchrony) since [time](https://en.wikipedia.org/wiki/Philology) immemorial. "[De falso credita et ementita Constantini Donatione declamatio](https://en.wikipedia.org/wiki/Lorenzo_Valla#On_the_Donation_of_Constantine)" by Lorenzo Valla could be considered the father of [modern philology](https://plato.stanford.edu/entries/lorenzo-valla/):
+
+"“Valla grasped the important insight—which was not unknown to medieval philosophers and theologians—that the meaning of a text can be understood only when it is seen as the product of its original historical and cultural context. Yet his attempt to reform or transform the scholastic study of language and argumentation—and, indeed, their entire mode of doing philosophy—is likely to be met with skepticism or even hostility by the historian of medieval philosophy who is dedicated to the argumentative rigor and conceptual analysis which are the hallmarks of scholastic thought. Nevertheless, while it may be true that Valla’s individual arguments are sometimes weak, superficial, and unfair, his critique as a whole does have an important philosophical and historical significance.” 
+
+Which leaves the third chapter of the trilogy, The Critic As Artist as the least explored occupation. Recent [podcasts](https://www.watchingtogetheralone.com/p/siskel-and-ebert-and-the-movies-and) have suggested that [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert#Critical_style) is one of the first modern critics, in that his methods were not conventional or widespread at the time in the 1970s. That criticism is widespread today as either a TikTok video, or a [book review](https://rosselliotbarkan.com/p/the-death-and-life-of-takedown-culture) is not actually new. It is merely adapting to the medium- in these cases, technological. The main difference is that the internet (and to a lesser extent, TV and radio), has created isolated bubbles where community or more frequent social interaction previously existed and would be experienced with less filter. Thus a decade from now, when VR/AR glasses might be lighter than a can of soda, culture jamming might happen with a tinted blue screen of "meh." 
 
 A Hybrid Approach
 --
