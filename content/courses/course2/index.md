@@ -128,7 +128,6 @@ Indeed, this [connection](https://en.wikipedia.org/wiki/Situation_(Sartre)#Guy_D
 Claire Gilman called Sartre a "father figure" for the Situationist International, and wrote that "Sartre and his philosophy of the situation are fundamental to the SI's notion of everyday life authentically experienced".[11] The relationship between Sartre's philosophy of the situation and the Situationist International is clarified by Peter Wollen in his essay Bitter victory.[12]"
 
 
-
 In "The Ones Who Walk Away from Omelas," by Ursula K. Le Guin, the imprisonment of even a single disabled child cannot be considered a free society, because anarchy defines all individuals as free from oppression:
 
 "She explored alternative political structures in many stories, such as in the philosophical short story "The Ones Who Walk Away from Omelas" (1973) and the anarchist utopian novel The Dispossessed (1974)." https://en.wikipedia.org/wiki/Ursula_K._Le_Guin
@@ -145,6 +144,17 @@ _"We cannot neatly sum up a public intellectual and man of letters, like Sartre,
 
 Situationism's foundation is built on imagination, or rather, [invention](https://digitalcommons.molloy.edu/cgi/viewcontent.cgi?article=1003&context=phil_fac).
 
+"l'art pour l'art" (Art for Art's Sake)
+--
+
+"The phrase "[l'art pour l'art](https://en.wikipedia.org/wiki/Art_for_art%27s_sake#History
+)" ('art for art's sake') had been floating around the intellectual circles of Paris since the beginning of the 19th century, but it was Théophile Gautier (1811–1872) who first fully articulated its metaphysical meaning (as we now understand it) in the prefaces of his 1832 poetry volume Albertus, and 1835 novel, Mademoiselle de Maupin.[3]
+Gautier was not the first nor the only one to use that phrase: it appeared in the lectures and writings of Victor Cousin[1] and Benjamin Constant. In his essay "The Poetic Principle" (1850) Edgar Allan Poe argues:"
+
+By Nietzsche
+"Friedrich Nietzsche argued that there is 'no art for art's sake', the arts always expresses human values, communicate core beliefs:
+
+When the purpose of moral preaching and of improving man has been excluded from art, it still does not follow by any means that art is altogether purposeless, aimless, senseless—in short, l'art pour l'art, a worm chewing its own tail. "Rather no purpose at all than a moral purpose!"—that is the talk of mere passion. A psychologist, on the other hand, asks: what does all art do? does it not praise? glorify? choose? prefer? With all this it strengthens or weakens certain valuations. Is this merely a "moreover"? an accident? something in which the artist's instinct had no share? Or is it not the very presupposition of the artist's ability? Does his basic instinct aim at art, or rather at the sense of art, at life? at a desirability of life? Art is the great stimulus to life: how could one understand it as purposeless, as aimless, as l'art pour l'art?[9]"
 
 A Hybrid Approach
 --
