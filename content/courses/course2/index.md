@@ -171,7 +171,7 @@ In Peter Wollen's analysis, he suggests that Debord essentially uses art as a po
 
 (p.8/48 of the pdf) page 25 This would be in line with Walter Benjamin's interpretation.
 
-In Guy _Davenport's_ Every Force Evolves a Form, three chapters have stuck out to me ever since reading it 15 years ago:
+In Guy [Davenport's](https://www.harvardmagazine.com/2017/10/guy-davenport) _Every Force Evolves a Form_, three chapters have stuck out to me ever since reading it 15 years ago:
 
 ![image](https://github.com/hatonthecat/Hurl/assets/76194453/bad06e21-d7a8-4ca1-9afc-1dd341d4f7cc)
 
