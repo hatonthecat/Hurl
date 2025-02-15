@@ -59,7 +59,7 @@ consequat."
               url: https://newsteve.substack.com/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: https://github.com/hatonthecat/Hurl/blob/main/static/cv.pdf
         - name: Email
           url: mailto:giovanni.los@proton.me
         - name: Substack
